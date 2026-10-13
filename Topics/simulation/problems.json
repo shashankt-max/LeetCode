@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T17:54:26.071Z",
+  "updatedAt": "2026-10-13T17:55:43.367Z",
   "problems": [
     {
       "frontendId": "1041",
@@ -24,6 +24,26 @@
           "path": "1041-robot-bounded-in-circle/1041-robot-bounded-in-circle.c",
           "sha": "3011f47b82882c59b79d399ba20e0940956af826",
           "lastSyncedAt": "2026-10-13T17:54:26.071Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1275",
+      "title": "Find Winner on a Tic Tac Toe Game",
+      "slug": "find-winner-on-a-tic-tac-toe-game",
+      "problemName": "1275-find-winner-on-a-tic-tac-toe-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/",
+      "folderPath": "1275-find-winner-on-a-tic-tac-toe-game/",
+      "readmePath": "1275-find-winner-on-a-tic-tac-toe-game/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1275-find-winner-on-a-tic-tac-toe-game.c",
+          "path": "1275-find-winner-on-a-tic-tac-toe-game/1275-find-winner-on-a-tic-tac-toe-game.c",
+          "sha": "01eadd0519e44ef6cc32b0cdd0289548526c7896",
+          "lastSyncedAt": "2026-10-13T17:55:43.367Z"
         }
       ]
     },
