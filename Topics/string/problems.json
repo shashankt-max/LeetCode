@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T18:16:52.411Z",
+  "updatedAt": "2026-10-13T18:17:46.290Z",
   "problems": [
     {
       "frontendId": "17",
@@ -24,6 +24,26 @@
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.c",
           "sha": "4718dc16ab17acb53e0b45f7a0f88109bc452fde",
           "lastSyncedAt": "2026-10-13T18:09:18.267Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "32",
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "problemName": "0032-longest-valid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+      "folderPath": "0032-longest-valid-parentheses/",
+      "readmePath": "0032-longest-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0032-longest-valid-parentheses.c",
+          "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.c",
+          "sha": "b3e940d2e36db7392df89a95b27bc80377184624",
+          "lastSyncedAt": "2026-10-13T18:17:46.290Z"
         }
       ]
     },
