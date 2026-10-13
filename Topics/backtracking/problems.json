@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking",
+    "tagId": "14"
+  },
+  "updatedAt": "2026-10-13T17:49:28.624Z",
+  "problems": [
+    {
+      "frontendId": "216",
+      "title": "Combination Sum III",
+      "slug": "combination-sum-iii",
+      "problemName": "0216-combination-sum-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iii/",
+      "folderPath": "0216-combination-sum-iii/",
+      "readmePath": "0216-combination-sum-iii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0216-combination-sum-iii.c",
+          "path": "0216-combination-sum-iii/0216-combination-sum-iii.c",
+          "sha": "755f5d7db4222b1593b2f3773f3aa15aa8fb5838",
+          "lastSyncedAt": "2026-10-13T17:49:28.624Z"
+        }
+      ]
+    }
+  ]
+}
