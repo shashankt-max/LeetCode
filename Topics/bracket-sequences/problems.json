@@ -5,8 +5,28 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-13T17:53:07.582Z",
+  "updatedAt": "2026-10-13T17:55:28.591Z",
   "problems": [
+    {
+      "frontendId": "921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "problemName": "0921-minimum-add-to-make-parentheses-valid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+      "folderPath": "0921-minimum-add-to-make-parentheses-valid/",
+      "readmePath": "0921-minimum-add-to-make-parentheses-valid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0921-minimum-add-to-make-parentheses-valid.c",
+          "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.c",
+          "sha": "8a3485cfea13d68f8c8a1df9c02462779b1c905f",
+          "lastSyncedAt": "2026-10-13T17:55:28.591Z"
+        }
+      ]
+    },
     {
       "frontendId": "1021",
       "title": "Remove Outermost Parentheses",
