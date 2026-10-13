@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T17:49:03.045Z",
+  "updatedAt": "2026-10-13T18:00:01.150Z",
   "problems": [
+    {
+      "frontendId": "746",
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "problemName": "0746-min-cost-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+      "folderPath": "0746-min-cost-climbing-stairs/",
+      "readmePath": "0746-min-cost-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0746-min-cost-climbing-stairs.c",
+          "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.c",
+          "sha": "0b75abe5b61370cd40d6b43cfedfc3f4a7ef421b",
+          "lastSyncedAt": "2026-10-13T18:00:01.150Z"
+        }
+      ]
+    },
     {
       "frontendId": "1137",
       "title": "N-th Tribonacci Number",
