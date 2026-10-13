@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-13T17:54:41.959Z",
+  "updatedAt": "2026-10-13T18:10:10.501Z",
   "problems": [
     {
       "frontendId": "215",
@@ -43,7 +43,7 @@
           "filename": "2333-minimum-sum-of-squared-difference.c",
           "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.c",
           "sha": "3f7a444ef8bd3b6acffd7fa186bfa660b721ca03",
-          "lastSyncedAt": "2026-10-13T17:51:32.330Z"
+          "lastSyncedAt": "2026-10-13T18:10:10.501Z"
         }
       ]
     },
