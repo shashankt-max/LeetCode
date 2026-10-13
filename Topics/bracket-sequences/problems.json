@@ -5,8 +5,28 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-13T17:51:55.294Z",
+  "updatedAt": "2026-10-13T17:53:07.582Z",
   "problems": [
+    {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "problemName": "1021-remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "folderPath": "1021-remove-outermost-parentheses/",
+      "readmePath": "1021-remove-outermost-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1021-remove-outermost-parentheses.c",
+          "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.c",
+          "sha": "9a68fd521f072855d729b49f2b33389b1abad71f",
+          "lastSyncedAt": "2026-10-13T17:53:07.582Z"
+        }
+      ]
+    },
     {
       "frontendId": "1541",
       "title": "Minimum Insertions to Balance a Parentheses String",
