@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T18:18:19.722Z",
+  "updatedAt": "2026-10-13T18:18:36.338Z",
   "problems": [
     {
       "frontendId": "17",
@@ -64,6 +64,26 @@
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.c",
           "sha": "b3e940d2e36db7392df89a95b27bc80377184624",
           "lastSyncedAt": "2026-10-13T18:17:46.290Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "problemName": "0058-length-of-last-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+      "folderPath": "0058-length-of-last-word/",
+      "readmePath": "0058-length-of-last-word/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0058-length-of-last-word.c",
+          "path": "0058-length-of-last-word/0058-length-of-last-word.c",
+          "sha": "def2cd33edca862a3f8d9638cc8c7422b5db10d3",
+          "lastSyncedAt": "2026-10-13T18:18:36.338Z"
         }
       ]
     },
