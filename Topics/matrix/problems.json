@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-13T17:55:13.298Z",
+  "updatedAt": "2026-10-13T17:55:43.367Z",
   "problems": [
     {
       "frontendId": "994",
@@ -24,6 +24,26 @@
           "path": "0994-rotting-oranges/0994-rotting-oranges.c",
           "sha": "b4488be13251766b375f7e11b83cd7c819f9e6a6",
           "lastSyncedAt": "2026-10-13T17:55:13.298Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1275",
+      "title": "Find Winner on a Tic Tac Toe Game",
+      "slug": "find-winner-on-a-tic-tac-toe-game",
+      "problemName": "1275-find-winner-on-a-tic-tac-toe-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/",
+      "folderPath": "1275-find-winner-on-a-tic-tac-toe-game/",
+      "readmePath": "1275-find-winner-on-a-tic-tac-toe-game/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1275-find-winner-on-a-tic-tac-toe-game.c",
+          "path": "1275-find-winner-on-a-tic-tac-toe-game/1275-find-winner-on-a-tic-tac-toe-game.c",
+          "sha": "01eadd0519e44ef6cc32b0cdd0289548526c7896",
+          "lastSyncedAt": "2026-10-13T17:55:43.367Z"
         }
       ]
     },
