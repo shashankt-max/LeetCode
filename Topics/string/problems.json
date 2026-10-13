@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T17:54:26.071Z",
+  "updatedAt": "2026-10-13T17:55:28.591Z",
   "problems": [
     {
       "frontendId": "17",
@@ -44,6 +44,26 @@
           "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.c",
           "sha": "ffe131161d638ec74f21b4a871d46cc579a3f1d4",
           "lastSyncedAt": "2026-10-13T17:54:10.281Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "921",
+      "title": "Minimum Add to Make Parentheses Valid",
+      "slug": "minimum-add-to-make-parentheses-valid",
+      "problemName": "0921-minimum-add-to-make-parentheses-valid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+      "folderPath": "0921-minimum-add-to-make-parentheses-valid/",
+      "readmePath": "0921-minimum-add-to-make-parentheses-valid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0921-minimum-add-to-make-parentheses-valid.c",
+          "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.c",
+          "sha": "8a3485cfea13d68f8c8a1df9c02462779b1c905f",
+          "lastSyncedAt": "2026-10-13T17:55:28.591Z"
         }
       ]
     },
