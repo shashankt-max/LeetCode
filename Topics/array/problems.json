@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T17:50:08.343Z",
+  "updatedAt": "2026-10-13T17:50:24.312Z",
   "problems": [
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "0162-find-peak-element/",
+      "readmePath": "0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0162-find-peak-element.c",
+          "path": "0162-find-peak-element/0162-find-peak-element.c",
+          "sha": "2102815c8e34452414becaa29e55fbb92db36810",
+          "lastSyncedAt": "2026-10-13T17:50:24.312Z"
+        }
+      ]
+    },
     {
       "frontendId": "216",
       "title": "Combination Sum III",
