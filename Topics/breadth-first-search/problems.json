@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-13T17:55:13.298Z",
+  "updatedAt": "2026-10-13T17:55:59.067Z",
   "problems": [
     {
       "frontendId": "301",
@@ -44,6 +44,26 @@
           "path": "0994-rotting-oranges/0994-rotting-oranges.c",
           "sha": "b4488be13251766b375f7e11b83cd7c819f9e6a6",
           "lastSyncedAt": "2026-10-13T17:55:13.298Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1926",
+      "title": "Nearest Exit from Entrance in Maze",
+      "slug": "nearest-exit-from-entrance-in-maze",
+      "problemName": "1926-nearest-exit-from-entrance-in-maze",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/",
+      "folderPath": "1926-nearest-exit-from-entrance-in-maze/",
+      "readmePath": "1926-nearest-exit-from-entrance-in-maze/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1926-nearest-exit-from-entrance-in-maze.c",
+          "path": "1926-nearest-exit-from-entrance-in-maze/1926-nearest-exit-from-entrance-in-maze.c",
+          "sha": "e84db09ddc216261a68bacf069663c3c9a293b6b",
+          "lastSyncedAt": "2026-10-13T17:55:59.067Z"
         }
       ]
     }
