@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T18:13:16.263Z",
+  "updatedAt": "2026-10-13T18:13:53.380Z",
   "problems": [
     {
       "frontendId": "17",
@@ -83,7 +83,7 @@
           "filename": "0856-score-of-parentheses.c",
           "path": "0856-score-of-parentheses/0856-score-of-parentheses.c",
           "sha": "6bb709ef94ef704b5f24e9eddcc49a5d88e41cbe",
-          "lastSyncedAt": "2026-10-13T17:57:02.374Z"
+          "lastSyncedAt": "2026-10-13T18:13:53.380Z"
         }
       ]
     },
