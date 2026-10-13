@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers",
+    "tagId": "9"
+  },
+  "updatedAt": "2026-10-13T17:50:34.390Z",
+  "problems": [
+    {
+      "frontendId": "2300",
+      "title": "Successful Pairs of Spells and Potions",
+      "slug": "successful-pairs-of-spells-and-potions",
+      "problemName": "2300-successful-pairs-of-spells-and-potions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions/",
+      "folderPath": "2300-successful-pairs-of-spells-and-potions/",
+      "readmePath": "2300-successful-pairs-of-spells-and-potions/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2300-successful-pairs-of-spells-and-potions.c",
+          "path": "2300-successful-pairs-of-spells-and-potions/2300-successful-pairs-of-spells-and-potions.c",
+          "sha": "0d86b314652cad4fc756eb62345cf88a6c33c8ad",
+          "lastSyncedAt": "2026-10-13T17:50:34.390Z"
+        }
+      ]
+    }
+  ]
+}
