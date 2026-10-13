@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "graph",
+    "name": "Graph Theory",
+    "tagId": "24"
+  },
+  "updatedAt": "2026-10-13T17:56:13.056Z",
+  "problems": [
+    {
+      "frontendId": "399",
+      "title": "Evaluate Division",
+      "slug": "evaluate-division",
+      "problemName": "0399-evaluate-division",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-division/",
+      "folderPath": "0399-evaluate-division/",
+      "readmePath": "0399-evaluate-division/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0399-evaluate-division.c",
+          "path": "0399-evaluate-division/0399-evaluate-division.c",
+          "sha": "9ab533d4f0608dcf942fb8bc011329c1c28723d0",
+          "lastSyncedAt": "2026-10-13T17:56:13.056Z"
+        }
+      ]
+    }
+  ]
+}
