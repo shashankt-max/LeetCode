@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-13T18:19:01.239Z",
+  "updatedAt": "2026-10-13T18:19:57.702Z",
   "problems": [
     {
       "frontendId": "199",
@@ -104,6 +104,26 @@
           "path": "1161-maximum-level-sum-of-a-binary-tree/1161-maximum-level-sum-of-a-binary-tree.c",
           "sha": "06b6dcf413fc31271d745983272ebb39e0124b3e",
           "lastSyncedAt": "2026-10-13T18:17:24.532Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1372",
+      "title": "Longest ZigZag Path in a Binary Tree",
+      "slug": "longest-zigzag-path-in-a-binary-tree",
+      "problemName": "1372-longest-zigzag-path-in-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/",
+      "folderPath": "1372-longest-zigzag-path-in-a-binary-tree/",
+      "readmePath": "1372-longest-zigzag-path-in-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1372-longest-zigzag-path-in-a-binary-tree.c",
+          "path": "1372-longest-zigzag-path-in-a-binary-tree/1372-longest-zigzag-path-in-a-binary-tree.c",
+          "sha": "5f6b9d7cfd922bc39fe92cb2d28bdf5112ed8e9d",
+          "lastSyncedAt": "2026-10-13T18:19:57.702Z"
         }
       ]
     }
