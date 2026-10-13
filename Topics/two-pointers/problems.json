@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T17:50:34.390Z",
+  "updatedAt": "2026-10-13T17:52:47.293Z",
   "problems": [
     {
       "frontendId": "2300",
@@ -24,6 +24,26 @@
           "path": "2300-successful-pairs-of-spells-and-potions/2300-successful-pairs-of-spells-and-potions.c",
           "sha": "0d86b314652cad4fc756eb62345cf88a6c33c8ad",
           "lastSyncedAt": "2026-10-13T17:50:34.390Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2462",
+      "title": "Total Cost to Hire K Workers",
+      "slug": "total-cost-to-hire-k-workers",
+      "problemName": "2462-total-cost-to-hire-k-workers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/total-cost-to-hire-k-workers/",
+      "folderPath": "2462-total-cost-to-hire-k-workers/",
+      "readmePath": "2462-total-cost-to-hire-k-workers/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2462-total-cost-to-hire-k-workers.c",
+          "path": "2462-total-cost-to-hire-k-workers/2462-total-cost-to-hire-k-workers.c",
+          "sha": "5e9ea036cfd9849245f382c16e9ef951d4a99358",
+          "lastSyncedAt": "2026-10-13T17:52:47.293Z"
         }
       ]
     }
