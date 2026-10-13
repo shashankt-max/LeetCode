@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T18:19:57.702Z",
+  "updatedAt": "2026-10-13T18:20:31.513Z",
   "problems": [
     {
       "frontendId": "199",
@@ -64,6 +64,26 @@
           "path": "0399-evaluate-division/0399-evaluate-division.c",
           "sha": "9ab533d4f0608dcf942fb8bc011329c1c28723d0",
           "lastSyncedAt": "2026-10-13T18:13:16.263Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "437",
+      "title": "Path Sum III",
+      "slug": "path-sum-iii",
+      "problemName": "0437-path-sum-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum-iii/",
+      "folderPath": "0437-path-sum-iii/",
+      "readmePath": "0437-path-sum-iii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0437-path-sum-iii.c",
+          "path": "0437-path-sum-iii/0437-path-sum-iii.c",
+          "sha": "533a9594dfb2ce1fd537f2861a4e32b49ca26b6c",
+          "lastSyncedAt": "2026-10-13T18:20:31.513Z"
         }
       ]
     },
