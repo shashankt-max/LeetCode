@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-13T18:20:31.513Z",
+  "updatedAt": "2026-10-13T18:20:49.447Z",
   "problems": [
     {
       "frontendId": "199",
@@ -144,6 +144,26 @@
           "path": "1372-longest-zigzag-path-in-a-binary-tree/1372-longest-zigzag-path-in-a-binary-tree.c",
           "sha": "5f6b9d7cfd922bc39fe92cb2d28bdf5112ed8e9d",
           "lastSyncedAt": "2026-10-13T18:19:57.702Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1448",
+      "title": "Count Good Nodes in Binary Tree",
+      "slug": "count-good-nodes-in-binary-tree",
+      "problemName": "1448-count-good-nodes-in-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/",
+      "folderPath": "1448-count-good-nodes-in-binary-tree/",
+      "readmePath": "1448-count-good-nodes-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1448-count-good-nodes-in-binary-tree.c",
+          "path": "1448-count-good-nodes-in-binary-tree/1448-count-good-nodes-in-binary-tree.c",
+          "sha": "dae7e118fcd78f92d83066e31c39ddef737aaebd",
+          "lastSyncedAt": "2026-10-13T18:20:49.447Z"
         }
       ]
     }
