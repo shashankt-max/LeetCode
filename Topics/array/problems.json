@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T17:53:20.535Z",
+  "updatedAt": "2026-10-13T17:53:31.222Z",
   "problems": [
     {
       "frontendId": "162",
@@ -164,6 +164,26 @@
           "path": "2462-total-cost-to-hire-k-workers/2462-total-cost-to-hire-k-workers.c",
           "sha": "5e9ea036cfd9849245f382c16e9ef951d4a99358",
           "lastSyncedAt": "2026-10-13T17:52:47.293Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2542",
+      "title": "Maximum Subsequence Score",
+      "slug": "maximum-subsequence-score",
+      "problemName": "2542-maximum-subsequence-score",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subsequence-score/",
+      "folderPath": "2542-maximum-subsequence-score/",
+      "readmePath": "2542-maximum-subsequence-score/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2542-maximum-subsequence-score.c",
+          "path": "2542-maximum-subsequence-score/2542-maximum-subsequence-score.c",
+          "sha": "119f71284a05a43f7df40e27ad87d5db9e9727fb",
+          "lastSyncedAt": "2026-10-13T17:53:31.222Z"
         }
       ]
     },
