@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-13T17:53:31.222Z",
+  "updatedAt": "2026-10-13T17:53:46.463Z",
   "problems": [
     {
       "frontendId": "2333",
@@ -24,6 +24,26 @@
           "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.c",
           "sha": "3f7a444ef8bd3b6acffd7fa186bfa660b721ca03",
           "lastSyncedAt": "2026-10-13T17:51:32.330Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2336",
+      "title": "Smallest Number in Infinite Set",
+      "slug": "smallest-number-in-infinite-set",
+      "problemName": "2336-smallest-number-in-infinite-set",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-number-in-infinite-set/",
+      "folderPath": "2336-smallest-number-in-infinite-set/",
+      "readmePath": "2336-smallest-number-in-infinite-set/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2336-smallest-number-in-infinite-set.c",
+          "path": "2336-smallest-number-in-infinite-set/2336-smallest-number-in-infinite-set.c",
+          "sha": "05b671078e15df840a8fb55ca181c87d021513b1",
+          "lastSyncedAt": "2026-10-13T17:53:46.463Z"
         }
       ]
     },
