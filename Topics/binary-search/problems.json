@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T17:50:24.312Z",
+  "updatedAt": "2026-10-13T17:50:34.390Z",
   "problems": [
     {
       "frontendId": "162",
@@ -44,6 +44,26 @@
           "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.c",
           "sha": "1e71816704885a01abb49372c9cc26d775328d07",
           "lastSyncedAt": "2026-10-13T17:50:08.343Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2300",
+      "title": "Successful Pairs of Spells and Potions",
+      "slug": "successful-pairs-of-spells-and-potions",
+      "problemName": "2300-successful-pairs-of-spells-and-potions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions/",
+      "folderPath": "2300-successful-pairs-of-spells-and-potions/",
+      "readmePath": "2300-successful-pairs-of-spells-and-potions/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2300-successful-pairs-of-spells-and-potions.c",
+          "path": "2300-successful-pairs-of-spells-and-potions/2300-successful-pairs-of-spells-and-potions.c",
+          "sha": "0d86b314652cad4fc756eb62345cf88a6c33c8ad",
+          "lastSyncedAt": "2026-10-13T17:50:34.390Z"
         }
       ]
     }
