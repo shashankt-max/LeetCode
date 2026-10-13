@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T18:16:00.658Z",
+  "updatedAt": "2026-10-13T18:16:52.411Z",
   "problems": [
     {
       "frontendId": "17",
@@ -104,6 +104,26 @@
           "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.c",
           "sha": "d233a0460dc25c1e5091a06307462b940df4755e",
           "lastSyncedAt": "2026-10-13T18:16:00.658Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "709",
+      "title": "To Lower Case",
+      "slug": "to-lower-case",
+      "problemName": "0709-to-lower-case",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/to-lower-case/",
+      "folderPath": "0709-to-lower-case/",
+      "readmePath": "0709-to-lower-case/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0709-to-lower-case.c",
+          "path": "0709-to-lower-case/0709-to-lower-case.c",
+          "sha": "79b9be43c988a047f5ba49ec47c1ec07838d12bd",
+          "lastSyncedAt": "2026-10-13T18:16:52.411Z"
         }
       ]
     },
