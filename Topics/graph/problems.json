@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-10-13T18:14:36.443Z",
+  "updatedAt": "2026-10-13T18:15:16.650Z",
   "problems": [
     {
       "frontendId": "399",
@@ -44,6 +44,26 @@
           "path": "0547-number-of-provinces/0547-number-of-provinces.c",
           "sha": "f1e1c97f22bcca475b63a47422e30e8a1219520c",
           "lastSyncedAt": "2026-10-13T18:14:36.443Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "841",
+      "title": "Keys and Rooms",
+      "slug": "keys-and-rooms",
+      "problemName": "0841-keys-and-rooms",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/keys-and-rooms/",
+      "folderPath": "0841-keys-and-rooms/",
+      "readmePath": "0841-keys-and-rooms/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0841-keys-and-rooms.c",
+          "path": "0841-keys-and-rooms/0841-keys-and-rooms.c",
+          "sha": "7eb5ad52c94cb160dbe74d24f3bd07fb8a121936",
+          "lastSyncedAt": "2026-10-13T18:15:16.650Z"
         }
       ]
     },
