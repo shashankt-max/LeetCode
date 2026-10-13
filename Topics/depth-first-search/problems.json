@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T18:15:16.650Z",
+  "updatedAt": "2026-10-13T18:17:24.532Z",
   "problems": [
     {
       "frontendId": "399",
@@ -64,6 +64,26 @@
           "path": "0841-keys-and-rooms/0841-keys-and-rooms.c",
           "sha": "7eb5ad52c94cb160dbe74d24f3bd07fb8a121936",
           "lastSyncedAt": "2026-10-13T18:15:16.650Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1161",
+      "title": "Maximum Level Sum of a Binary Tree",
+      "slug": "maximum-level-sum-of-a-binary-tree",
+      "problemName": "1161-maximum-level-sum-of-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/",
+      "folderPath": "1161-maximum-level-sum-of-a-binary-tree/",
+      "readmePath": "1161-maximum-level-sum-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1161-maximum-level-sum-of-a-binary-tree.c",
+          "path": "1161-maximum-level-sum-of-a-binary-tree/1161-maximum-level-sum-of-a-binary-tree.c",
+          "sha": "06b6dcf413fc31271d745983272ebb39e0124b3e",
+          "lastSyncedAt": "2026-10-13T18:17:24.532Z"
         }
       ]
     },
