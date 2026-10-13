@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T18:13:16.263Z",
+  "updatedAt": "2026-10-13T18:14:20.643Z",
   "problems": [
     {
       "frontendId": "399",
@@ -24,6 +24,26 @@
           "path": "0399-evaluate-division/0399-evaluate-division.c",
           "sha": "9ab533d4f0608dcf942fb8bc011329c1c28723d0",
           "lastSyncedAt": "2026-10-13T18:13:16.263Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1466",
+      "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+      "slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+      "problemName": "1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/",
+      "folderPath": "1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/",
+      "readmePath": "1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.c",
+          "path": "1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.c",
+          "sha": "48a517c433003f3a85e136e1644244fbc9cbdf60",
+          "lastSyncedAt": "2026-10-13T18:14:20.643Z"
         }
       ]
     }
