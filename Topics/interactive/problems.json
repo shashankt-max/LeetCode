@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "interactive",
+    "name": "Interactive",
+    "tagId": "61059"
+  },
+  "updatedAt": "2026-10-13T17:52:34.450Z",
+  "problems": [
+    {
+      "frontendId": "374",
+      "title": "Guess Number Higher or Lower",
+      "slug": "guess-number-higher-or-lower",
+      "problemName": "0374-guess-number-higher-or-lower",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/guess-number-higher-or-lower/",
+      "folderPath": "0374-guess-number-higher-or-lower/",
+      "readmePath": "0374-guess-number-higher-or-lower/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0374-guess-number-higher-or-lower.c",
+          "path": "0374-guess-number-higher-or-lower/0374-guess-number-higher-or-lower.c",
+          "sha": "7f4e0ab3aa0a272e3bdd65114f58caf167f8ffd0",
+          "lastSyncedAt": "2026-10-13T17:52:34.450Z"
+        }
+      ]
+    }
+  ]
+}
