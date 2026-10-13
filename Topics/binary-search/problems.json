@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T17:50:34.390Z",
+  "updatedAt": "2026-10-13T17:51:32.330Z",
   "problems": [
     {
       "frontendId": "162",
@@ -64,6 +64,26 @@
           "path": "2300-successful-pairs-of-spells-and-potions/2300-successful-pairs-of-spells-and-potions.c",
           "sha": "0d86b314652cad4fc756eb62345cf88a6c33c8ad",
           "lastSyncedAt": "2026-10-13T17:50:34.390Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "slug": "minimum-sum-of-squared-difference",
+      "problemName": "2333-minimum-sum-of-squared-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "folderPath": "2333-minimum-sum-of-squared-difference/",
+      "readmePath": "2333-minimum-sum-of-squared-difference/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2333-minimum-sum-of-squared-difference.c",
+          "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.c",
+          "sha": "3f7a444ef8bd3b6acffd7fa186bfa660b721ca03",
+          "lastSyncedAt": "2026-10-13T17:51:32.330Z"
         }
       ]
     }
