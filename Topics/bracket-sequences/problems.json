@@ -5,8 +5,28 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-13T18:18:19.722Z",
+  "updatedAt": "2026-10-13T18:19:28.252Z",
   "problems": [
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "0020-valid-parentheses/",
+      "readmePath": "0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0020-valid-parentheses.c",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.c",
+          "sha": "6d14c3c5b3064a8011b1289dd83f14ae5475b173",
+          "lastSyncedAt": "2026-10-13T18:19:28.252Z"
+        }
+      ]
+    },
     {
       "frontendId": "22",
       "title": "Generate Parentheses",
