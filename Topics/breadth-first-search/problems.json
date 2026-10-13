@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-13T17:56:13.056Z",
+  "updatedAt": "2026-10-13T18:11:48.996Z",
   "problems": [
     {
       "frontendId": "301",
@@ -23,7 +23,7 @@
           "filename": "0301-remove-invalid-parentheses.c",
           "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.c",
           "sha": "ffe131161d638ec74f21b4a871d46cc579a3f1d4",
-          "lastSyncedAt": "2026-10-13T17:54:10.281Z"
+          "lastSyncedAt": "2026-10-13T18:11:48.996Z"
         }
       ]
     },
