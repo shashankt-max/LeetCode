@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T18:18:36.338Z",
+  "updatedAt": "2026-10-13T18:19:28.252Z",
   "problems": [
     {
       "frontendId": "17",
@@ -24,6 +24,26 @@
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.c",
           "sha": "4718dc16ab17acb53e0b45f7a0f88109bc452fde",
           "lastSyncedAt": "2026-10-13T18:09:18.267Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "0020-valid-parentheses/",
+      "readmePath": "0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0020-valid-parentheses.c",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.c",
+          "sha": "6d14c3c5b3064a8011b1289dd83f14ae5475b173",
+          "lastSyncedAt": "2026-10-13T18:19:28.252Z"
         }
       ]
     },
