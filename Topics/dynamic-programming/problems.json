@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T18:09:01.583Z",
+  "updatedAt": "2026-10-13T18:16:00.658Z",
   "problems": [
     {
       "frontendId": "198",
@@ -24,6 +24,26 @@
           "path": "0198-house-robber/0198-house-robber.c",
           "sha": "927644fe145d65c084dfbd972cadbac9f5d405c2",
           "lastSyncedAt": "2026-10-13T18:08:34.134Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "0678-valid-parenthesis-string/",
+      "readmePath": "0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0678-valid-parenthesis-string.c",
+          "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.c",
+          "sha": "d233a0460dc25c1e5091a06307462b940df4755e",
+          "lastSyncedAt": "2026-10-13T18:16:00.658Z"
         }
       ]
     },
