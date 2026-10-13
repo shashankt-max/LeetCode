@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T17:54:41.959Z",
+  "updatedAt": "2026-10-13T17:55:13.298Z",
   "problems": [
     {
       "frontendId": "162",
@@ -84,6 +84,26 @@
           "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.c",
           "sha": "1e71816704885a01abb49372c9cc26d775328d07",
           "lastSyncedAt": "2026-10-13T17:50:08.343Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "0994-rotting-oranges/",
+      "readmePath": "0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0994-rotting-oranges.c",
+          "path": "0994-rotting-oranges/0994-rotting-oranges.c",
+          "sha": "b4488be13251766b375f7e11b83cd7c819f9e6a6",
+          "lastSyncedAt": "2026-10-13T17:55:13.298Z"
         }
       ]
     },
