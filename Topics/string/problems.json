@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T18:14:10.188Z",
+  "updatedAt": "2026-10-13T18:16:00.658Z",
   "problems": [
     {
       "frontendId": "17",
@@ -84,6 +84,26 @@
           "path": "0657-robot-return-to-origin/0657-robot-return-to-origin.c",
           "sha": "20f73c2a63fc31768f1d43285a6597c5f53f2e40",
           "lastSyncedAt": "2026-10-13T18:14:10.188Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "0678-valid-parenthesis-string/",
+      "readmePath": "0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0678-valid-parenthesis-string.c",
+          "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.c",
+          "sha": "d233a0460dc25c1e5091a06307462b940df4755e",
+          "lastSyncedAt": "2026-10-13T18:16:00.658Z"
         }
       ]
     },
