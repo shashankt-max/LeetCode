@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-13T18:20:49.447Z",
+  "updatedAt": "2026-10-13T18:22:04.272Z",
   "problems": [
     {
       "frontendId": "199",
@@ -104,6 +104,26 @@
           "path": "0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.c",
           "sha": "f0ac11605b1277d170660b8605283b123b2c77ed",
           "lastSyncedAt": "2026-10-13T18:17:07.384Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "872",
+      "title": "Leaf-Similar Trees",
+      "slug": "leaf-similar-trees",
+      "problemName": "0872-leaf-similar-trees",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/leaf-similar-trees/",
+      "folderPath": "0872-leaf-similar-trees/",
+      "readmePath": "0872-leaf-similar-trees/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0872-leaf-similar-trees.c",
+          "path": "0872-leaf-similar-trees/0872-leaf-similar-trees.c",
+          "sha": "73b24ed98df762f0de8bec3e68da2da7c63284cf",
+          "lastSyncedAt": "2026-10-13T18:22:04.272Z"
         }
       ]
     },
