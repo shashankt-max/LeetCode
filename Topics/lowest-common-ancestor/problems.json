@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "lowest-common-ancestor",
+    "name": "Lowest Common Ancestor",
+    "tagId": "70204"
+  },
+  "updatedAt": "2026-10-13T18:19:01.239Z",
+  "problems": [
+    {
+      "frontendId": "236",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-tree",
+      "problemName": "0236-lowest-common-ancestor-of-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+      "folderPath": "0236-lowest-common-ancestor-of-a-binary-tree/",
+      "readmePath": "0236-lowest-common-ancestor-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0236-lowest-common-ancestor-of-a-binary-tree.c",
+          "path": "0236-lowest-common-ancestor-of-a-binary-tree/0236-lowest-common-ancestor-of-a-binary-tree.c",
+          "sha": "7d07a628fe7aae7b7f4398552ac66923c1f6153f",
+          "lastSyncedAt": "2026-10-13T18:19:01.239Z"
+        }
+      ]
+    }
+  ]
+}
