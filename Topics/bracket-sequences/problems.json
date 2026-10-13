@@ -5,8 +5,28 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-13T18:12:35.221Z",
+  "updatedAt": "2026-10-13T18:13:53.380Z",
   "problems": [
+    {
+      "frontendId": "856",
+      "title": "Score of Parentheses",
+      "slug": "score-of-parentheses",
+      "problemName": "0856-score-of-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-parentheses/",
+      "folderPath": "0856-score-of-parentheses/",
+      "readmePath": "0856-score-of-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0856-score-of-parentheses.c",
+          "path": "0856-score-of-parentheses/0856-score-of-parentheses.c",
+          "sha": "6bb709ef94ef704b5f24e9eddcc49a5d88e41cbe",
+          "lastSyncedAt": "2026-10-13T18:13:53.380Z"
+        }
+      ]
+    },
     {
       "frontendId": "921",
       "title": "Minimum Add to Make Parentheses Valid",
