@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T17:50:34.390Z",
+  "updatedAt": "2026-10-13T17:50:55.462Z",
   "problems": [
     {
       "frontendId": "162",
@@ -84,6 +84,26 @@
           "path": "2300-successful-pairs-of-spells-and-potions/2300-successful-pairs-of-spells-and-potions.c",
           "sha": "0d86b314652cad4fc756eb62345cf88a6c33c8ad",
           "lastSyncedAt": "2026-10-13T17:50:34.390Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2897",
+      "title": "Apply Operations on Array to Maximize Sum of Squares",
+      "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+      "problemName": "2897-apply-operations-on-array-to-maximize-sum-of-squares",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/",
+      "folderPath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/",
+      "readmePath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.c",
+          "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.c",
+          "sha": "5bc169ade11b54520f48b51352bbcb68911134a2",
+          "lastSyncedAt": "2026-10-13T17:50:55.462Z"
         }
       ]
     }
