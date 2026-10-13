@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T17:53:46.463Z",
+  "updatedAt": "2026-10-13T17:55:43.367Z",
   "problems": [
     {
       "frontendId": "17",
@@ -24,6 +24,26 @@
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.c",
           "sha": "4718dc16ab17acb53e0b45f7a0f88109bc452fde",
           "lastSyncedAt": "2026-10-13T17:49:44.056Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1275",
+      "title": "Find Winner on a Tic Tac Toe Game",
+      "slug": "find-winner-on-a-tic-tac-toe-game",
+      "problemName": "1275-find-winner-on-a-tic-tac-toe-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/",
+      "folderPath": "1275-find-winner-on-a-tic-tac-toe-game/",
+      "readmePath": "1275-find-winner-on-a-tic-tac-toe-game/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1275-find-winner-on-a-tic-tac-toe-game.c",
+          "path": "1275-find-winner-on-a-tic-tac-toe-game/1275-find-winner-on-a-tic-tac-toe-game.c",
+          "sha": "01eadd0519e44ef6cc32b0cdd0289548526c7896",
+          "lastSyncedAt": "2026-10-13T17:55:43.367Z"
         }
       ]
     },
