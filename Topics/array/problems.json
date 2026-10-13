@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T18:12:49.572Z",
+  "updatedAt": "2026-10-13T18:13:03.385Z",
   "problems": [
     {
       "frontendId": "162",
@@ -243,7 +243,7 @@
           "filename": "1926-nearest-exit-from-entrance-in-maze.c",
           "path": "1926-nearest-exit-from-entrance-in-maze/1926-nearest-exit-from-entrance-in-maze.c",
           "sha": "e84db09ddc216261a68bacf069663c3c9a293b6b",
-          "lastSyncedAt": "2026-10-13T17:55:59.067Z"
+          "lastSyncedAt": "2026-10-13T18:13:03.385Z"
         }
       ]
     },
