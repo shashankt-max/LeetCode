@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T17:52:47.293Z",
+  "updatedAt": "2026-10-13T17:54:26.071Z",
   "problems": [
+    {
+      "frontendId": "1041",
+      "title": "Robot Bounded In Circle",
+      "slug": "robot-bounded-in-circle",
+      "problemName": "1041-robot-bounded-in-circle",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-bounded-in-circle/",
+      "folderPath": "1041-robot-bounded-in-circle/",
+      "readmePath": "1041-robot-bounded-in-circle/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1041-robot-bounded-in-circle.c",
+          "path": "1041-robot-bounded-in-circle/1041-robot-bounded-in-circle.c",
+          "sha": "3011f47b82882c59b79d399ba20e0940956af826",
+          "lastSyncedAt": "2026-10-13T17:54:26.071Z"
+        }
+      ]
+    },
     {
       "frontendId": "2462",
       "title": "Total Cost to Hire K Workers",
