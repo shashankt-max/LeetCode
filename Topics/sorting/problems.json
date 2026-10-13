@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T18:12:07.244Z",
+  "updatedAt": "2026-10-13T18:21:49.384Z",
   "problems": [
     {
       "frontendId": "215",
@@ -24,6 +24,26 @@
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.c",
           "sha": "d7be46ec5c767657d0d25f61795df2a218d39175",
           "lastSyncedAt": "2026-10-13T18:12:07.244Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1502",
+      "title": "Can Make Arithmetic Progression From Sequence",
+      "slug": "can-make-arithmetic-progression-from-sequence",
+      "problemName": "1502-can-make-arithmetic-progression-from-sequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/",
+      "folderPath": "1502-can-make-arithmetic-progression-from-sequence/",
+      "readmePath": "1502-can-make-arithmetic-progression-from-sequence/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1502-can-make-arithmetic-progression-from-sequence.c",
+          "path": "1502-can-make-arithmetic-progression-from-sequence/1502-can-make-arithmetic-progression-from-sequence.c",
+          "sha": "22cb7c303070507a939987f0c7992b46a4dab340",
+          "lastSyncedAt": "2026-10-13T18:21:49.384Z"
         }
       ]
     },
