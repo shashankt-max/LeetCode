@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T17:55:59.067Z",
+  "updatedAt": "2026-10-13T17:56:13.056Z",
   "problems": [
     {
       "frontendId": "162",
@@ -64,6 +64,26 @@
           "path": "0216-combination-sum-iii/0216-combination-sum-iii.c",
           "sha": "755f5d7db4222b1593b2f3773f3aa15aa8fb5838",
           "lastSyncedAt": "2026-10-13T17:49:28.624Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "399",
+      "title": "Evaluate Division",
+      "slug": "evaluate-division",
+      "problemName": "0399-evaluate-division",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-division/",
+      "folderPath": "0399-evaluate-division/",
+      "readmePath": "0399-evaluate-division/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0399-evaluate-division.c",
+          "path": "0399-evaluate-division/0399-evaluate-division.c",
+          "sha": "9ab533d4f0608dcf942fb8bc011329c1c28723d0",
+          "lastSyncedAt": "2026-10-13T17:56:13.056Z"
         }
       ]
     },
