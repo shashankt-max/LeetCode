@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T17:50:55.462Z",
+  "updatedAt": "2026-10-13T17:53:46.463Z",
   "problems": [
     {
       "frontendId": "17",
@@ -24,6 +24,26 @@
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.c",
           "sha": "4718dc16ab17acb53e0b45f7a0f88109bc452fde",
           "lastSyncedAt": "2026-10-13T17:49:44.056Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2336",
+      "title": "Smallest Number in Infinite Set",
+      "slug": "smallest-number-in-infinite-set",
+      "problemName": "2336-smallest-number-in-infinite-set",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-number-in-infinite-set/",
+      "folderPath": "2336-smallest-number-in-infinite-set/",
+      "readmePath": "2336-smallest-number-in-infinite-set/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2336-smallest-number-in-infinite-set.c",
+          "path": "2336-smallest-number-in-infinite-set/2336-smallest-number-in-infinite-set.c",
+          "sha": "05b671078e15df840a8fb55ca181c87d021513b1",
+          "lastSyncedAt": "2026-10-13T17:53:46.463Z"
         }
       ]
     },
