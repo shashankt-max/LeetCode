@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T18:12:49.572Z",
+  "updatedAt": "2026-10-13T18:18:09.055Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0001-two-sum.c",
+          "path": "0001-two-sum/0001-two-sum.c",
+          "sha": "6adb81f124f3bec3f2c768328cac442a62d7472e",
+          "lastSyncedAt": "2026-10-13T18:18:09.055Z"
+        }
+      ]
+    },
     {
       "frontendId": "17",
       "title": "Letter Combinations of a Phone Number",
