@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T17:49:28.624Z",
+  "updatedAt": "2026-10-13T17:50:08.343Z",
   "problems": [
     {
       "frontendId": "216",
@@ -24,6 +24,26 @@
           "path": "0216-combination-sum-iii/0216-combination-sum-iii.c",
           "sha": "755f5d7db4222b1593b2f3773f3aa15aa8fb5838",
           "lastSyncedAt": "2026-10-13T17:49:28.624Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "875",
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "problemName": "0875-koko-eating-bananas",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/koko-eating-bananas/",
+      "folderPath": "0875-koko-eating-bananas/",
+      "readmePath": "0875-koko-eating-bananas/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0875-koko-eating-bananas.c",
+          "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.c",
+          "sha": "1e71816704885a01abb49372c9cc26d775328d07",
+          "lastSyncedAt": "2026-10-13T17:50:08.343Z"
         }
       ]
     }
