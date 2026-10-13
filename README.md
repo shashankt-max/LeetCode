@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 26 | 8 | 16 | 2 |
+| 27 | 8 | 17 | 2 |
 
 ## Activity
 
@@ -21,14 +21,14 @@ Contains topicwise list of solved problems.
 | 2026-10-09 | 4 |
 | 2026-10-11 | 1 |
 | 2026-10-12 | 8 |
-| 2026-10-13 | 1 |
+| 2026-10-13 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 65% |
-| String | 7 | 27% |
+| Array | 18 | 67% |
+| String | 7 | 26% |
 | Binary Search | 5 | 19% |
 | Greedy | 5 | 19% |
 | Heap (Priority Queue) | 5 | 19% |
@@ -36,13 +36,13 @@ Contains topicwise list of solved problems.
 | Breadth-First Search | 4 | 15% |
 | Hash Table | 4 | 15% |
 | Sorting | 4 | 15% |
-| Backtracking | 3 | 12% |
+| Backtracking | 3 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 17 |
+| [Array](Topics/array/) | 18 |
 | [Backtracking](Topics/backtracking/) | 3 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Search](Topics/binary-search/) | 5 |
@@ -52,7 +52,7 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
