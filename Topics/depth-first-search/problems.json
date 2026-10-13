@@ -5,8 +5,28 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T18:17:24.532Z",
+  "updatedAt": "2026-10-13T18:18:46.292Z",
   "problems": [
+    {
+      "frontendId": "199",
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "problemName": "0199-binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "folderPath": "0199-binary-tree-right-side-view/",
+      "readmePath": "0199-binary-tree-right-side-view/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0199-binary-tree-right-side-view.c",
+          "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.c",
+          "sha": "e3a46016087e4c6ccaaabcbf34d33e1ece519b12",
+          "lastSyncedAt": "2026-10-13T18:18:46.292Z"
+        }
+      ]
+    },
     {
       "frontendId": "399",
       "title": "Evaluate Division",
