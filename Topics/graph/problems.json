@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-10-13T18:14:20.643Z",
+  "updatedAt": "2026-10-13T18:14:36.443Z",
   "problems": [
     {
       "frontendId": "399",
@@ -24,6 +24,26 @@
           "path": "0399-evaluate-division/0399-evaluate-division.c",
           "sha": "9ab533d4f0608dcf942fb8bc011329c1c28723d0",
           "lastSyncedAt": "2026-10-13T18:13:16.263Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "547",
+      "title": "Number of Provinces",
+      "slug": "number-of-provinces",
+      "problemName": "0547-number-of-provinces",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+      "folderPath": "0547-number-of-provinces/",
+      "readmePath": "0547-number-of-provinces/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0547-number-of-provinces.c",
+          "path": "0547-number-of-provinces/0547-number-of-provinces.c",
+          "sha": "f1e1c97f22bcca475b63a47422e30e8a1219520c",
+          "lastSyncedAt": "2026-10-13T18:14:36.443Z"
         }
       ]
     },
