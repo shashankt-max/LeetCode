@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-13T17:53:20.535Z",
+  "updatedAt": "2026-10-13T17:55:13.298Z",
   "problems": [
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "0994-rotting-oranges/",
+      "readmePath": "0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0994-rotting-oranges.c",
+          "path": "0994-rotting-oranges/0994-rotting-oranges.c",
+          "sha": "b4488be13251766b375f7e11b83cd7c819f9e6a6",
+          "lastSyncedAt": "2026-10-13T17:55:13.298Z"
+        }
+      ]
+    },
     {
       "frontendId": "1572",
       "title": "Matrix Diagonal Sum",
