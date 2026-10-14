@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-14T17:11:35.651Z",
+  "updatedAt": "2026-10-14T17:15:22.148Z",
   "problems": [
     {
       "frontendId": "17",
@@ -83,7 +83,7 @@
           "filename": "0301-remove-invalid-parentheses.c",
           "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.c",
           "sha": "ffe131161d638ec74f21b4a871d46cc579a3f1d4",
-          "lastSyncedAt": "2026-10-13T18:11:48.996Z"
+          "lastSyncedAt": "2026-10-14T17:15:22.148Z"
         }
       ]
     }
