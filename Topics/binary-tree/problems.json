@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-13T18:22:04.272Z",
+  "updatedAt": "2026-10-14T17:19:08.429Z",
   "problems": [
     {
       "frontendId": "199",
@@ -83,7 +83,7 @@
           "filename": "0450-delete-node-in-a-bst.c",
           "path": "0450-delete-node-in-a-bst/0450-delete-node-in-a-bst.c",
           "sha": "05d590c0aeb523bdc8877ddc1a30c717f0070c90",
-          "lastSyncedAt": "2026-10-13T18:15:32.548Z"
+          "lastSyncedAt": "2026-10-14T17:19:08.429Z"
         }
       ]
     },
