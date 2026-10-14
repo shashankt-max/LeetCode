@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-14T17:12:18.026Z",
+  "updatedAt": "2026-10-14T17:13:22.503Z",
   "problems": [
     {
       "frontendId": "678",
@@ -83,7 +83,7 @@
           "filename": "2333-minimum-sum-of-squared-difference.c",
           "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.c",
           "sha": "3f7a444ef8bd3b6acffd7fa186bfa660b721ca03",
-          "lastSyncedAt": "2026-10-14T17:09:29.008Z"
+          "lastSyncedAt": "2026-10-14T17:13:22.503Z"
         }
       ]
     },
