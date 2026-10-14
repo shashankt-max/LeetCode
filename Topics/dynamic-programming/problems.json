@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-14T17:10:10.819Z",
+  "updatedAt": "2026-10-14T17:10:29.670Z",
   "problems": [
     {
       "frontendId": "22",
@@ -124,6 +124,26 @@
           "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.c",
           "sha": "0b75abe5b61370cd40d6b43cfedfc3f4a7ef421b",
           "lastSyncedAt": "2026-10-14T17:07:41.479Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "790",
+      "title": "Domino and Tromino Tiling",
+      "slug": "domino-and-tromino-tiling",
+      "problemName": "0790-domino-and-tromino-tiling",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/domino-and-tromino-tiling/",
+      "folderPath": "0790-domino-and-tromino-tiling/",
+      "readmePath": "0790-domino-and-tromino-tiling/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0790-domino-and-tromino-tiling.c",
+          "path": "0790-domino-and-tromino-tiling/0790-domino-and-tromino-tiling.c",
+          "sha": "47c5d0335fe3dfe974bd7e21c045ee8939693649",
+          "lastSyncedAt": "2026-10-14T17:10:29.670Z"
         }
       ]
     },
