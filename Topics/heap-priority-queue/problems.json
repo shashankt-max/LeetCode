@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-14T17:14:16.653Z",
+  "updatedAt": "2026-10-14T17:14:50.147Z",
   "problems": [
     {
       "frontendId": "215",
@@ -103,7 +103,7 @@
           "filename": "2542-maximum-subsequence-score.c",
           "path": "2542-maximum-subsequence-score/2542-maximum-subsequence-score.c",
           "sha": "119f71284a05a43f7df40e27ad87d5db9e9727fb",
-          "lastSyncedAt": "2026-10-13T18:11:23.053Z"
+          "lastSyncedAt": "2026-10-14T17:14:50.147Z"
         }
       ]
     }
