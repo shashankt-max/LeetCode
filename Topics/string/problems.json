@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-14T17:19:40.029Z",
+  "updatedAt": "2026-10-14T17:20:11.606Z",
   "problems": [
     {
       "frontendId": "13",
@@ -103,7 +103,7 @@
           "filename": "0032-longest-valid-parentheses.c",
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.c",
           "sha": "b3e940d2e36db7392df89a95b27bc80377184624",
-          "lastSyncedAt": "2026-10-13T18:17:46.290Z"
+          "lastSyncedAt": "2026-10-14T17:20:11.606Z"
         }
       ]
     },
