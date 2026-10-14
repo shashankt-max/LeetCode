@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-13T18:22:37.613Z",
+  "updatedAt": "2026-10-14T17:19:08.429Z",
   "problems": [
     {
       "frontendId": "104",
@@ -103,7 +103,7 @@
           "filename": "0450-delete-node-in-a-bst.c",
           "path": "0450-delete-node-in-a-bst/0450-delete-node-in-a-bst.c",
           "sha": "05d590c0aeb523bdc8877ddc1a30c717f0070c90",
-          "lastSyncedAt": "2026-10-13T18:15:32.548Z"
+          "lastSyncedAt": "2026-10-14T17:19:08.429Z"
         }
       ]
     },
