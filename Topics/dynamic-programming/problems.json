@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-14T17:08:01.366Z",
+  "updatedAt": "2026-10-14T17:10:10.819Z",
   "problems": [
     {
       "frontendId": "22",
@@ -44,6 +44,26 @@
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.c",
           "sha": "b3e940d2e36db7392df89a95b27bc80377184624",
           "lastSyncedAt": "2026-10-13T18:17:46.290Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "problemName": "0062-unique-paths",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+      "folderPath": "0062-unique-paths/",
+      "readmePath": "0062-unique-paths/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0062-unique-paths.c",
+          "path": "0062-unique-paths/0062-unique-paths.c",
+          "sha": "c686eb9544f73896b85707f2c8aee6000d1f60a3",
+          "lastSyncedAt": "2026-10-14T17:10:10.819Z"
         }
       ]
     },
