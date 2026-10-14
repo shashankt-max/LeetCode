@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-14T17:16:36.299Z",
+  "updatedAt": "2026-10-14T17:17:54.089Z",
   "problems": [
     {
       "frontendId": "20",
@@ -103,7 +103,7 @@
           "filename": "0856-score-of-parentheses.c",
           "path": "0856-score-of-parentheses/0856-score-of-parentheses.c",
           "sha": "6bb709ef94ef704b5f24e9eddcc49a5d88e41cbe",
-          "lastSyncedAt": "2026-10-13T18:13:53.380Z"
+          "lastSyncedAt": "2026-10-14T17:17:54.089Z"
         }
       ]
     },
