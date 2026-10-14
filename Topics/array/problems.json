@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T17:11:05.484Z",
+  "updatedAt": "2026-10-14T17:11:28.631Z",
   "problems": [
     {
       "frontendId": "1",
@@ -103,7 +103,7 @@
           "filename": "0216-combination-sum-iii.c",
           "path": "0216-combination-sum-iii/0216-combination-sum-iii.c",
           "sha": "755f5d7db4222b1593b2f3773f3aa15aa8fb5838",
-          "lastSyncedAt": "2026-10-14T17:08:11.084Z"
+          "lastSyncedAt": "2026-10-14T17:11:28.631Z"
         }
       ]
     },
