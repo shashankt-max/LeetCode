@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T17:14:00.678Z",
+  "updatedAt": "2026-10-14T17:14:16.653Z",
   "problems": [
     {
       "frontendId": "1",
@@ -383,7 +383,7 @@
           "filename": "2462-total-cost-to-hire-k-workers.c",
           "path": "2462-total-cost-to-hire-k-workers/2462-total-cost-to-hire-k-workers.c",
           "sha": "5e9ea036cfd9849245f382c16e9ef951d4a99358",
-          "lastSyncedAt": "2026-10-13T18:10:54.074Z"
+          "lastSyncedAt": "2026-10-14T17:14:16.653Z"
         }
       ]
     },
