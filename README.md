@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 58 | 21 | 34 | 3 |
+| 59 | 21 | 35 | 3 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-12 | 8 |
 | 2026-10-13 | 3 |
 | 2026-10-14 | 2 |
-| 2026-10-15 | 2 |
+| 2026-10-15 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 24 | 41% |
+| Array | 25 | 42% |
 | String | 17 | 29% |
-| Depth-First Search | 12 | 21% |
+| Depth-First Search | 12 | 20% |
 | Breadth-First Search | 11 | 19% |
 | Binary Tree | 10 | 17% |
+| Dynamic Programming | 10 | 17% |
 | Tree | 10 | 17% |
-| Dynamic Programming | 9 | 16% |
+| Greedy | 9 | 15% |
 | Bracket Sequences | 8 | 14% |
-| Greedy | 8 | 14% |
 | Stack | 8 | 14% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 24 |
+| [Array](Topics/array/) | 25 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
@@ -65,11 +65,11 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 11 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 4 |
-| [Greedy](Topics/greedy/) | 8 |
+| [Greedy](Topics/greedy/) | 9 |
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [Interactive](Topics/interactive/) | 1 |
