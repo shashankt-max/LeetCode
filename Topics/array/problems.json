@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T17:20:24.651Z",
+  "updatedAt": "2026-10-15T16:48:48.472Z",
   "problems": [
     {
       "frontendId": "1",
@@ -444,6 +444,26 @@
           "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.c",
           "sha": "5bc169ade11b54520f48b51352bbcb68911134a2",
           "lastSyncedAt": "2026-10-14T17:12:18.026Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2913",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "slug": "subarrays-distinct-element-sum-of-squares-i",
+      "problemName": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
+      "folderPath": "2913-subarrays-distinct-element-sum-of-squares-i/",
+      "readmePath": "2913-subarrays-distinct-element-sum-of-squares-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2913-subarrays-distinct-element-sum-of-squares-i.c",
+          "path": "2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.c",
+          "sha": "7734ffabc769dff2553faa95bfa5e19d2b0685eb",
+          "lastSyncedAt": "2026-10-15T16:48:48.472Z"
         }
       ]
     },
