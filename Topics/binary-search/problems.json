@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-15T19:08:25.735Z",
+  "updatedAt": "2026-10-15T19:08:30.463Z",
   "problems": [
     {
       "frontendId": "162",
@@ -83,7 +83,7 @@
           "filename": "2300-successful-pairs-of-spells-and-potions.c",
           "path": "2300-successful-pairs-of-spells-and-potions/2300-successful-pairs-of-spells-and-potions.c",
           "sha": "0d86b314652cad4fc756eb62345cf88a6c33c8ad",
-          "lastSyncedAt": "2026-10-14T17:12:04.263Z"
+          "lastSyncedAt": "2026-10-15T19:08:30.463Z"
         }
       ]
     },
