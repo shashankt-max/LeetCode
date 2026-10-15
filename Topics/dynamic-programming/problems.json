@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-14T17:20:31.608Z",
+  "updatedAt": "2026-10-15T16:56:15.610Z",
   "problems": [
     {
       "frontendId": "22",
@@ -164,6 +164,26 @@
           "path": "1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.c",
           "sha": "25cfbb966d5cc84b5f7f310e946a916f33538faf",
           "lastSyncedAt": "2026-10-14T17:11:16.334Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "problemName": "1143-longest-common-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+      "folderPath": "1143-longest-common-subsequence/",
+      "readmePath": "1143-longest-common-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1143-longest-common-subsequence.c",
+          "path": "1143-longest-common-subsequence/1143-longest-common-subsequence.c",
+          "sha": "903de4768cd8020ff4fac8213f42a60bc7dce742",
+          "lastSyncedAt": "2026-10-15T16:56:15.610Z"
         }
       ]
     },
