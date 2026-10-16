@@ -5,8 +5,28 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-16T18:14:49.135Z",
+  "updatedAt": "2026-10-16T18:14:56.878Z",
   "problems": [
+    {
+      "frontendId": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "problemName": "0104-maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "folderPath": "0104-maximum-depth-of-binary-tree/",
+      "readmePath": "0104-maximum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0104-maximum-depth-of-binary-tree.c",
+          "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.c",
+          "sha": "32604d3b1d1e58c2a1bc08cf451f1f41d955f070",
+          "lastSyncedAt": "2026-10-16T18:14:56.878Z"
+        }
+      ]
+    },
     {
       "frontendId": "199",
       "title": "Binary Tree Right Side View",
