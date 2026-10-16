@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-16T18:02:08.189Z",
+  "updatedAt": "2026-10-16T18:02:33.036Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,7 +143,7 @@
           "filename": "2913-subarrays-distinct-element-sum-of-squares-i.c",
           "path": "2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.c",
           "sha": "7734ffabc769dff2553faa95bfa5e19d2b0685eb",
-          "lastSyncedAt": "2026-10-16T18:00:05.268Z"
+          "lastSyncedAt": "2026-10-16T18:02:33.036Z"
         }
       ]
     },
