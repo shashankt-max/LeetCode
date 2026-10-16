@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "data-stream",
+    "name": "Data Stream",
+    "tagId": "61063"
+  },
+  "updatedAt": "2026-10-16T18:16:07.038Z",
+  "problems": [
+    {
+      "frontendId": "933",
+      "title": "Number of Recent Calls",
+      "slug": "number-of-recent-calls",
+      "problemName": "0933-number-of-recent-calls",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-recent-calls/",
+      "folderPath": "0933-number-of-recent-calls/",
+      "readmePath": "0933-number-of-recent-calls/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0933-number-of-recent-calls.c",
+          "path": "0933-number-of-recent-calls/0933-number-of-recent-calls.c",
+          "sha": "c06927980d6a631ece23c23201775b52d3842f92",
+          "lastSyncedAt": "2026-10-16T18:16:07.038Z"
+        }
+      ]
+    }
+  ]
+}
