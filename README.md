@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 59 | 21 | 35 | 3 |
+| 60 | 21 | 35 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 6 days | 14 |
+| 6 days | 6 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-30 | 5 |
 | 2026-10-01 | 5 |
 | 2026-10-02 | 4 |
 | 2026-10-04 | 5 |
@@ -29,30 +28,31 @@ Contains topicwise list of solved problems.
 | 2026-10-13 | 3 |
 | 2026-10-14 | 2 |
 | 2026-10-15 | 3 |
+| 2026-10-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 25 | 42% |
-| String | 17 | 29% |
+| Array | 26 | 43% |
+| String | 17 | 28% |
 | Depth-First Search | 12 | 20% |
-| Breadth-First Search | 11 | 19% |
+| Breadth-First Search | 11 | 18% |
 | Binary Tree | 10 | 17% |
 | Dynamic Programming | 10 | 17% |
 | Tree | 10 | 17% |
 | Greedy | 9 | 15% |
-| Bracket Sequences | 8 | 14% |
-| Stack | 8 | 14% |
+| Bracket Sequences | 8 | 13% |
+| Hash Table | 8 | 13% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 25 |
+| [Array](Topics/array/) | 26 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
-| [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
+| [Binary Indexed Tree](Topics/binary-indexed-tree/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
@@ -70,7 +70,7 @@ Contains topicwise list of solved problems.
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 4 |
 | [Greedy](Topics/greedy/) | 9 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
@@ -80,7 +80,7 @@ Contains topicwise list of solved problems.
 | [Memoization](Topics/memoization/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [Segment Tree](Topics/segment-tree/) | 1 |
+| [Segment Tree](Topics/segment-tree/) | 2 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sorting](Topics/sorting/) | 6 |
