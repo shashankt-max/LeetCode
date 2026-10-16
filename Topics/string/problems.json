@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-16T18:15:55.221Z",
+  "updatedAt": "2026-10-16T18:16:19.797Z",
   "problems": [
     {
       "frontendId": "13",
@@ -164,6 +164,26 @@
           "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.c",
           "sha": "ffe131161d638ec74f21b4a871d46cc579a3f1d4",
           "lastSyncedAt": "2026-10-16T18:10:35.926Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "394",
+      "title": "Decode String",
+      "slug": "decode-string",
+      "problemName": "0394-decode-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string/",
+      "folderPath": "0394-decode-string/",
+      "readmePath": "0394-decode-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0394-decode-string.c",
+          "path": "0394-decode-string/0394-decode-string.c",
+          "sha": "195f53e1be8ba14348b8c6cf6ad0fdca8d7802d2",
+          "lastSyncedAt": "2026-10-16T18:16:19.797Z"
         }
       ]
     },
