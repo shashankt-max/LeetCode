@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-16T18:12:19.745Z",
+  "updatedAt": "2026-10-16T18:16:38.646Z",
   "problems": [
     {
       "frontendId": "657",
@@ -44,6 +44,26 @@
           "path": "0682-baseball-game/0682-baseball-game.c",
           "sha": "d6226a5391793ebae8c49ea2d41526d249f50598",
           "lastSyncedAt": "2026-10-16T18:12:19.745Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "735",
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "problemName": "0735-asteroid-collision",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision/",
+      "folderPath": "0735-asteroid-collision/",
+      "readmePath": "0735-asteroid-collision/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0735-asteroid-collision.c",
+          "path": "0735-asteroid-collision/0735-asteroid-collision.c",
+          "sha": "be0fd33ad8bce4d0a5aa75db440fc8afb04738c9",
+          "lastSyncedAt": "2026-10-16T18:16:38.646Z"
         }
       ]
     },
