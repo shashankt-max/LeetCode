@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-16T18:13:32.968Z",
+  "updatedAt": "2026-10-16T18:13:41.963Z",
   "problems": [
     {
       "frontendId": "104",
@@ -63,7 +63,7 @@
           "filename": "0236-lowest-common-ancestor-of-a-binary-tree.c",
           "path": "0236-lowest-common-ancestor-of-a-binary-tree/0236-lowest-common-ancestor-of-a-binary-tree.c",
           "sha": "7d07a628fe7aae7b7f4398552ac66923c1f6153f",
-          "lastSyncedAt": "2026-10-13T18:19:01.239Z"
+          "lastSyncedAt": "2026-10-16T18:13:41.963Z"
         }
       ]
     },
