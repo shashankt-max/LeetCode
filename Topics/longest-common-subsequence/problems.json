@@ -5,7 +5,7 @@
     "name": "Longest Common Subsequence",
     "tagId": "122080"
   },
-  "updatedAt": "2026-10-16T17:59:58.014Z",
+  "updatedAt": "2026-10-16T18:02:25.691Z",
   "problems": [
     {
       "frontendId": "1143",
@@ -23,7 +23,7 @@
           "filename": "1143-longest-common-subsequence.c",
           "path": "1143-longest-common-subsequence/1143-longest-common-subsequence.c",
           "sha": "903de4768cd8020ff4fac8213f42a60bc7dce742",
-          "lastSyncedAt": "2026-10-16T17:59:58.014Z"
+          "lastSyncedAt": "2026-10-16T18:02:25.691Z"
         }
       ]
     }
