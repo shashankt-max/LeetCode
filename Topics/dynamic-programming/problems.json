@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-16T18:00:28.138Z",
+  "updatedAt": "2026-10-16T18:00:28.659Z",
   "problems": [
     {
       "frontendId": "22",
@@ -64,6 +64,26 @@
           "path": "0062-unique-paths/0062-unique-paths.c",
           "sha": "c686eb9544f73896b85707f2c8aee6000d1f60a3",
           "lastSyncedAt": "2026-10-16T18:00:16.053Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "72",
+      "title": "Edit Distance",
+      "slug": "edit-distance",
+      "problemName": "0072-edit-distance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
+      "folderPath": "0072-edit-distance/",
+      "readmePath": "0072-edit-distance/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0072-edit-distance.c",
+          "path": "0072-edit-distance/0072-edit-distance.c",
+          "sha": "2560dac7e979df5c56923fd224c2c66c67684f74",
+          "lastSyncedAt": "2026-10-16T18:00:28.659Z"
         }
       ]
     },
