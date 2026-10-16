@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-16T18:13:41.963Z",
+  "updatedAt": "2026-10-16T18:14:07.955Z",
   "problems": [
     {
       "frontendId": "104",
@@ -203,7 +203,7 @@
           "filename": "1372-longest-zigzag-path-in-a-binary-tree.c",
           "path": "1372-longest-zigzag-path-in-a-binary-tree/1372-longest-zigzag-path-in-a-binary-tree.c",
           "sha": "5f6b9d7cfd922bc39fe92cb2d28bdf5112ed8e9d",
-          "lastSyncedAt": "2026-10-13T18:19:57.702Z"
+          "lastSyncedAt": "2026-10-16T18:14:07.955Z"
         }
       ]
     },
