@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-15T19:08:01.354Z",
+  "updatedAt": "2026-10-16T17:58:48.597Z",
   "problems": [
     {
       "frontendId": "13",
@@ -43,7 +43,7 @@
           "filename": "0062-unique-paths.c",
           "path": "0062-unique-paths/0062-unique-paths.c",
           "sha": "c686eb9544f73896b85707f2c8aee6000d1f60a3",
-          "lastSyncedAt": "2026-10-15T19:07:30.316Z"
+          "lastSyncedAt": "2026-10-16T17:58:48.597Z"
         }
       ]
     },
