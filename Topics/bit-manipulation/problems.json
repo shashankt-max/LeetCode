@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-15T19:08:40.801Z",
+  "updatedAt": "2026-10-16T18:01:18.989Z",
   "problems": [
+    {
+      "frontendId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "problemName": "0338-counting-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+      "folderPath": "0338-counting-bits/",
+      "readmePath": "0338-counting-bits/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0338-counting-bits.c",
+          "path": "0338-counting-bits/0338-counting-bits.c",
+          "sha": "da3dd6bae7940fba24fcfa68d17c788b09a8ea70",
+          "lastSyncedAt": "2026-10-16T18:01:18.989Z"
+        }
+      ]
+    },
     {
       "frontendId": "2897",
       "title": "Apply Operations on Array to Maximize Sum of Squares",
