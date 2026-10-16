@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-16T18:16:38.646Z",
+  "updatedAt": "2026-10-16T18:16:49.717Z",
   "problems": [
     {
       "frontendId": "657",
@@ -104,6 +104,26 @@
           "path": "1275-find-winner-on-a-tic-tac-toe-game/1275-find-winner-on-a-tic-tac-toe-game.c",
           "sha": "01eadd0519e44ef6cc32b0cdd0289548526c7896",
           "lastSyncedAt": "2026-10-16T18:11:18.047Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2390",
+      "title": "Removing Stars From a String",
+      "slug": "removing-stars-from-a-string",
+      "problemName": "2390-removing-stars-from-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/removing-stars-from-a-string/",
+      "folderPath": "2390-removing-stars-from-a-string/",
+      "readmePath": "2390-removing-stars-from-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2390-removing-stars-from-a-string.c",
+          "path": "2390-removing-stars-from-a-string/2390-removing-stars-from-a-string.c",
+          "sha": "b192c9a9b3805261a4025f5546b7a7b26a945b2f",
+          "lastSyncedAt": "2026-10-16T18:16:49.717Z"
         }
       ]
     },
