@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-16T18:15:31.564Z",
+  "updatedAt": "2026-10-16T18:15:39.595Z",
   "problems": [
     {
       "frontendId": "206",
@@ -44,6 +44,26 @@
           "path": "0328-odd-even-linked-list/0328-odd-even-linked-list.c",
           "sha": "0c6bb0249b90116472d8b53b83fbf6044d2d6d4d",
           "lastSyncedAt": "2026-10-16T18:15:31.564Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2095",
+      "title": "Delete the Middle Node of a Linked List",
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "problemName": "2095-delete-the-middle-node-of-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+      "folderPath": "2095-delete-the-middle-node-of-a-linked-list/",
+      "readmePath": "2095-delete-the-middle-node-of-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2095-delete-the-middle-node-of-a-linked-list.c",
+          "path": "2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.c",
+          "sha": "0b623f2b423e74ed0348fedc904e9b0c37f590c2",
+          "lastSyncedAt": "2026-10-16T18:15:39.595Z"
         }
       ]
     },
