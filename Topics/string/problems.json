@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-16T18:10:08.331Z",
+  "updatedAt": "2026-10-16T18:10:35.926Z",
   "problems": [
     {
       "frontendId": "13",
@@ -163,7 +163,7 @@
           "filename": "0301-remove-invalid-parentheses.c",
           "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.c",
           "sha": "ffe131161d638ec74f21b4a871d46cc579a3f1d4",
-          "lastSyncedAt": "2026-10-14T17:15:22.148Z"
+          "lastSyncedAt": "2026-10-16T18:10:35.926Z"
         }
       ]
     },
