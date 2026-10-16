@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-10-16T18:06:50.352Z",
+  "updatedAt": "2026-10-16T18:07:40.031Z",
   "problems": [
     {
       "frontendId": "2913",
@@ -43,7 +43,7 @@
           "filename": "2916-subarrays-distinct-element-sum-of-squares-ii.c",
           "path": "2916-subarrays-distinct-element-sum-of-squares-ii/2916-subarrays-distinct-element-sum-of-squares-ii.c",
           "sha": "ae7c580e07fba711089882bbcc5623c2a9078522",
-          "lastSyncedAt": "2026-10-16T18:06:50.352Z"
+          "lastSyncedAt": "2026-10-16T18:07:40.031Z"
         }
       ]
     }
