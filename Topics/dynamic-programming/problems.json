@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-16T18:00:52.767Z",
+  "updatedAt": "2026-10-16T18:01:18.989Z",
   "problems": [
     {
       "frontendId": "22",
@@ -104,6 +104,26 @@
           "path": "0198-house-robber/0198-house-robber.c",
           "sha": "927644fe145d65c084dfbd972cadbac9f5d405c2",
           "lastSyncedAt": "2026-10-16T18:00:35.242Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "problemName": "0338-counting-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+      "folderPath": "0338-counting-bits/",
+      "readmePath": "0338-counting-bits/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0338-counting-bits.c",
+          "path": "0338-counting-bits/0338-counting-bits.c",
+          "sha": "da3dd6bae7940fba24fcfa68d17c788b09a8ea70",
+          "lastSyncedAt": "2026-10-16T18:01:18.989Z"
         }
       ]
     },
