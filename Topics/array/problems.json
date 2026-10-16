@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-16T18:15:47.348Z",
+  "updatedAt": "2026-10-16T18:16:30.937Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "0001-two-sum/0001-two-sum.c",
           "sha": "6adb81f124f3bec3f2c768328cac442a62d7472e",
           "lastSyncedAt": "2026-10-16T18:13:17.237Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "0066-plus-one/",
+      "readmePath": "0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0066-plus-one.c",
+          "path": "0066-plus-one/0066-plus-one.c",
+          "sha": "38481820466f6d0bbdaafd952ebddb2e2f2f4124",
+          "lastSyncedAt": "2026-10-16T18:16:30.937Z"
         }
       ]
     },
