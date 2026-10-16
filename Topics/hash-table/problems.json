@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-16T18:13:17.237Z",
+  "updatedAt": "2026-10-16T18:14:00.817Z",
   "problems": [
     {
       "frontendId": "1",
@@ -43,7 +43,7 @@
           "filename": "0013-roman-to-integer.c",
           "path": "0013-roman-to-integer/0013-roman-to-integer.c",
           "sha": "75e381c0d121dab959900cf71766f2ba3fac74fd",
-          "lastSyncedAt": "2026-10-13T18:19:43.490Z"
+          "lastSyncedAt": "2026-10-16T18:14:00.817Z"
         }
       ]
     },
