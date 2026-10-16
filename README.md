@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 60 | 21 | 35 | 4 |
+| 61 | 21 | 36 | 4 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-10-13 | 3 |
 | 2026-10-14 | 2 |
 | 2026-10-15 | 3 |
-| 2026-10-16 | 1 |
+| 2026-10-16 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 26 | 43% |
-| String | 17 | 28% |
+| String | 18 | 30% |
 | Depth-First Search | 12 | 20% |
 | Breadth-First Search | 11 | 18% |
-| Binary Tree | 10 | 17% |
-| Dynamic Programming | 10 | 17% |
-| Tree | 10 | 17% |
+| Dynamic Programming | 11 | 18% |
+| Binary Tree | 10 | 16% |
+| Tree | 10 | 16% |
 | Greedy | 9 | 15% |
 | Bracket Sequences | 8 | 13% |
 | Hash Table | 8 | 13% |
@@ -65,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 11 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 4 |
@@ -85,7 +85,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 5 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 9 |
-| [String](Topics/string/) | 18 |
+| [String](Topics/string/) | 19 |
 | [Tree](Topics/tree/) | 10 |
 | [Two Pointers](Topics/two-pointers/) | 2 |
 | [Union-Find](Topics/union-find/) | 2 |
