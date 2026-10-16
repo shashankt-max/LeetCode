@@ -5,7 +5,7 @@
     "name": "Queue",
     "tagId": "34"
   },
-  "updatedAt": "2026-10-16T18:15:55.221Z",
+  "updatedAt": "2026-10-16T18:16:07.038Z",
   "problems": [
     {
       "frontendId": "649",
@@ -24,6 +24,26 @@
           "path": "0649-dota2-senate/0649-dota2-senate.c",
           "sha": "3a17bef22ef7ee75e32264fe7d45590ce3213dee",
           "lastSyncedAt": "2026-10-16T18:15:55.221Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "933",
+      "title": "Number of Recent Calls",
+      "slug": "number-of-recent-calls",
+      "problemName": "0933-number-of-recent-calls",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-recent-calls/",
+      "folderPath": "0933-number-of-recent-calls/",
+      "readmePath": "0933-number-of-recent-calls/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0933-number-of-recent-calls.c",
+          "path": "0933-number-of-recent-calls/0933-number-of-recent-calls.c",
+          "sha": "c06927980d6a631ece23c23201775b52d3842f92",
+          "lastSyncedAt": "2026-10-16T18:16:07.038Z"
         }
       ]
     }
