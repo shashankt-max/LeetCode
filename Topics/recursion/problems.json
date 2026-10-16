@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-16T18:15:21.668Z",
+  "updatedAt": "2026-10-16T18:16:19.797Z",
   "problems": [
     {
       "frontendId": "206",
@@ -24,6 +24,26 @@
           "path": "0206-reverse-linked-list/0206-reverse-linked-list.c",
           "sha": "5561c04d53e5e73bf960e9fa7ad934b4c1230bad",
           "lastSyncedAt": "2026-10-16T18:15:21.668Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "394",
+      "title": "Decode String",
+      "slug": "decode-string",
+      "problemName": "0394-decode-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string/",
+      "folderPath": "0394-decode-string/",
+      "readmePath": "0394-decode-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0394-decode-string.c",
+          "path": "0394-decode-string/0394-decode-string.c",
+          "sha": "195f53e1be8ba14348b8c6cf6ad0fdca8d7802d2",
+          "lastSyncedAt": "2026-10-16T18:16:19.797Z"
         }
       ]
     }
