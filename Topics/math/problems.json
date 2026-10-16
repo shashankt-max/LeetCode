@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-16T18:14:00.817Z",
+  "updatedAt": "2026-10-16T18:15:47.348Z",
   "problems": [
     {
       "frontendId": "13",
@@ -84,6 +84,26 @@
           "path": "1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.c",
           "sha": "25cfbb966d5cc84b5f7f310e946a916f33538faf",
           "lastSyncedAt": "2026-10-16T18:08:40.258Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1822",
+      "title": "Sign of the Product of an Array",
+      "slug": "sign-of-the-product-of-an-array",
+      "problemName": "1822-sign-of-the-product-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sign-of-the-product-of-an-array/",
+      "folderPath": "1822-sign-of-the-product-of-an-array/",
+      "readmePath": "1822-sign-of-the-product-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1822-sign-of-the-product-of-an-array.c",
+          "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.c",
+          "sha": "bc02cc36d4c96ae4983d2dbba5a8438b5aa53b0a",
+          "lastSyncedAt": "2026-10-16T18:15:47.348Z"
         }
       ]
     },
