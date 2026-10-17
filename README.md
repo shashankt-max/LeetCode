@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 74 | 26 | 44 | 4 |
+| 75 | 27 | 44 | 4 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-14 | 2 |
 | 2026-10-15 | 3 |
 | 2026-10-16 | 3 |
-| 2026-10-17 | 1 |
+| 2026-10-17 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 30 | 41% |
+| Array | 31 | 41% |
 | String | 21 | 28% |
 | Depth-First Search | 12 | 16% |
 | Dynamic Programming | 12 | 16% |
 | Stack | 12 | 16% |
 | Breadth-First Search | 11 | 15% |
-| Binary Tree | 10 | 14% |
-| Greedy | 10 | 14% |
-| Tree | 10 | 14% |
+| Binary Tree | 10 | 13% |
+| Greedy | 10 | 13% |
+| Tree | 10 | 13% |
 | Hash Table | 9 | 12% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 30 |
+| [Array](Topics/array/) | 31 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 2 |
@@ -57,7 +57,7 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 10 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 9 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 11 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
