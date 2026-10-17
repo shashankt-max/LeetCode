@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-17T16:28:58.649Z",
+  "updatedAt": "2026-10-17T16:30:32.217Z",
   "problems": [
     {
       "frontendId": "136",
@@ -83,7 +83,7 @@
           "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.c",
           "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.c",
           "sha": "5bc169ade11b54520f48b51352bbcb68911134a2",
-          "lastSyncedAt": "2026-10-16T18:09:16.605Z"
+          "lastSyncedAt": "2026-10-17T16:30:32.217Z"
         }
       ]
     }
