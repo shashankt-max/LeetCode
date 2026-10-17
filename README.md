@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 75 | 27 | 44 | 4 |
+| 76 | 27 | 45 | 4 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-10-14 | 2 |
 | 2026-10-15 | 3 |
 | 2026-10-16 | 3 |
-| 2026-10-17 | 2 |
+| 2026-10-17 | 3 |
 
 ## Top Tags
 
@@ -39,7 +39,7 @@ Contains topicwise list of solved problems.
 | Depth-First Search | 12 | 16% |
 | Dynamic Programming | 12 | 16% |
 | Stack | 12 | 16% |
-| Breadth-First Search | 11 | 15% |
+| Breadth-First Search | 11 | 14% |
 | Binary Tree | 10 | 13% |
 | Greedy | 10 | 13% |
 | Tree | 10 | 13% |
@@ -57,7 +57,7 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 10 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 9 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 11 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
