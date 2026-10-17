@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-17T16:32:59.800Z",
+  "updatedAt": "2026-10-17T16:33:05.311Z",
   "problems": [
     {
       "frontendId": "104",
@@ -123,7 +123,7 @@
           "filename": "0547-number-of-provinces.c",
           "path": "0547-number-of-provinces/0547-number-of-provinces.c",
           "sha": "f1e1c97f22bcca475b63a47422e30e8a1219520c",
-          "lastSyncedAt": "2026-10-16T18:12:11.983Z"
+          "lastSyncedAt": "2026-10-17T16:33:05.311Z"
         }
       ]
     },
