@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-16T18:15:39.595Z",
+  "updatedAt": "2026-10-17T16:30:24.740Z",
   "problems": [
     {
       "frontendId": "2095",
@@ -63,7 +63,7 @@
           "filename": "2300-successful-pairs-of-spells-and-potions.c",
           "path": "2300-successful-pairs-of-spells-and-potions/2300-successful-pairs-of-spells-and-potions.c",
           "sha": "0d86b314652cad4fc756eb62345cf88a6c33c8ad",
-          "lastSyncedAt": "2026-10-16T18:09:07.708Z"
+          "lastSyncedAt": "2026-10-17T16:30:24.740Z"
         }
       ]
     },
