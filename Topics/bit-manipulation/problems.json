@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-17T16:15:39.826Z",
+  "updatedAt": "2026-10-17T16:16:45.420Z",
   "problems": [
     {
       "frontendId": "136",
@@ -44,6 +44,26 @@
           "path": "0338-counting-bits/0338-counting-bits.c",
           "sha": "da3dd6bae7940fba24fcfa68d17c788b09a8ea70",
           "lastSyncedAt": "2026-10-16T18:07:26.421Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1318",
+      "title": "Minimum Flips to Make a OR b Equal to c",
+      "slug": "minimum-flips-to-make-a-or-b-equal-to-c",
+      "problemName": "1318-minimum-flips-to-make-a-or-b-equal-to-c",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/",
+      "folderPath": "1318-minimum-flips-to-make-a-or-b-equal-to-c/",
+      "readmePath": "1318-minimum-flips-to-make-a-or-b-equal-to-c/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1318-minimum-flips-to-make-a-or-b-equal-to-c.c",
+          "path": "1318-minimum-flips-to-make-a-or-b-equal-to-c/1318-minimum-flips-to-make-a-or-b-equal-to-c.c",
+          "sha": "2f11301619b1e9d391cd760017df5d9fdddc0434",
+          "lastSyncedAt": "2026-10-17T16:16:45.420Z"
         }
       ]
     },
