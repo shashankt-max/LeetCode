@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-17T16:33:55.065Z",
+  "updatedAt": "2026-10-17T16:34:07.001Z",
   "problems": [
     {
       "frontendId": "22",
@@ -23,7 +23,7 @@
           "filename": "0022-generate-parentheses.c",
           "path": "0022-generate-parentheses/0022-generate-parentheses.c",
           "sha": "85cc6c21cae9415def4927c77b4132417a2842ec",
-          "lastSyncedAt": "2026-10-16T18:13:22.180Z"
+          "lastSyncedAt": "2026-10-17T16:34:07.001Z"
         }
       ]
     },
