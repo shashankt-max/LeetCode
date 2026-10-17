@@ -5,8 +5,28 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-10-16T18:16:07.038Z",
+  "updatedAt": "2026-10-17T16:27:47.306Z",
   "problems": [
+    {
+      "frontendId": "208",
+      "title": "Implement Trie (Prefix Tree)",
+      "slug": "implement-trie-prefix-tree",
+      "problemName": "0208-implement-trie-prefix-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+      "folderPath": "0208-implement-trie-prefix-tree/",
+      "readmePath": "0208-implement-trie-prefix-tree/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0208-implement-trie-prefix-tree.c",
+          "path": "0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.c",
+          "sha": "b5d5a9bb2a1360678bd029423ca56c9d2278087c",
+          "lastSyncedAt": "2026-10-17T16:27:47.306Z"
+        }
+      ]
+    },
     {
       "frontendId": "933",
       "title": "Number of Recent Calls",
