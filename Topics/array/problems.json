@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-17T16:12:25.362Z",
+  "updatedAt": "2026-10-17T16:15:39.826Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "0066-plus-one/0066-plus-one.c",
           "sha": "38481820466f6d0bbdaafd952ebddb2e2f2f4124",
           "lastSyncedAt": "2026-10-16T18:16:30.937Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "0136-single-number/",
+      "readmePath": "0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0136-single-number.c",
+          "path": "0136-single-number/0136-single-number.c",
+          "sha": "d5d6883801556c526254459542fe95d84507981e",
+          "lastSyncedAt": "2026-10-17T16:15:39.826Z"
         }
       ]
     },
