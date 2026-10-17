@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-16T18:14:00.817Z",
+  "updatedAt": "2026-10-17T16:11:34.648Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "2916-subarrays-distinct-element-sum-of-squares-ii/2916-subarrays-distinct-element-sum-of-squares-ii.c",
           "sha": "ae7c580e07fba711089882bbcc5623c2a9078522",
           "lastSyncedAt": "2026-10-16T18:07:40.031Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3551",
+      "title": "Minimum Swaps to Sort by Digit Sum",
+      "slug": "minimum-swaps-to-sort-by-digit-sum",
+      "problemName": "3551-minimum-swaps-to-sort-by-digit-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/",
+      "folderPath": "3551-minimum-swaps-to-sort-by-digit-sum/",
+      "readmePath": "3551-minimum-swaps-to-sort-by-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3551-minimum-swaps-to-sort-by-digit-sum.c",
+          "path": "3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.c",
+          "sha": "e47ac4298914bfe39aa51bbb6563f215df2ae123",
+          "lastSyncedAt": "2026-10-17T16:11:34.648Z"
         }
       ]
     }
