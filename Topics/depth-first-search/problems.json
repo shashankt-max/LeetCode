@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-17T16:33:47.874Z",
+  "updatedAt": "2026-10-17T16:34:17.011Z",
   "problems": [
     {
       "frontendId": "104",
@@ -43,7 +43,7 @@
           "filename": "0199-binary-tree-right-side-view.c",
           "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.c",
           "sha": "e3a46016087e4c6ccaaabcbf34d33e1ece519b12",
-          "lastSyncedAt": "2026-10-16T18:13:32.968Z"
+          "lastSyncedAt": "2026-10-17T16:34:17.011Z"
         }
       ]
     },
