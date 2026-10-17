@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-17T16:11:34.648Z",
+  "updatedAt": "2026-10-17T16:12:25.362Z",
   "problems": [
     {
       "frontendId": "215",
@@ -123,7 +123,7 @@
           "filename": "3551-minimum-swaps-to-sort-by-digit-sum.c",
           "path": "3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.c",
           "sha": "e47ac4298914bfe39aa51bbb6563f215df2ae123",
-          "lastSyncedAt": "2026-10-17T16:11:34.648Z"
+          "lastSyncedAt": "2026-10-17T16:12:25.362Z"
         }
       ]
     },
