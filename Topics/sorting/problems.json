@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-18T17:26:53.044Z",
+  "updatedAt": "2026-10-18T17:27:25.554Z",
   "problems": [
     {
       "frontendId": "215",
@@ -123,7 +123,7 @@
           "filename": "2300-successful-pairs-of-spells-and-potions.c",
           "path": "2300-successful-pairs-of-spells-and-potions/2300-successful-pairs-of-spells-and-potions.c",
           "sha": "0d86b314652cad4fc756eb62345cf88a6c33c8ad",
-          "lastSyncedAt": "2026-10-18T17:22:14.761Z"
+          "lastSyncedAt": "2026-10-18T17:27:25.554Z"
         }
       ]
     },
