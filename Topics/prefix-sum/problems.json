@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-18T17:57:14.833Z",
+  "updatedAt": "2026-10-18T17:57:35.597Z",
   "problems": [
     {
       "frontendId": "238",
@@ -63,7 +63,7 @@
           "filename": "1004-max-consecutive-ones-iii.c",
           "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.c",
           "sha": "80ee2bbeb28101a82ba4edace3d99fc0e1ed36b6",
-          "lastSyncedAt": "2026-10-18T17:35:22.967Z"
+          "lastSyncedAt": "2026-10-18T17:57:35.597Z"
         }
       ]
     },
