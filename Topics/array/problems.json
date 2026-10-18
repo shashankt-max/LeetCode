@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:55:20.239Z",
+  "updatedAt": "2026-10-18T17:55:52.553Z",
   "problems": [
     {
       "frontendId": "1",
@@ -763,7 +763,7 @@
           "filename": "1822-sign-of-the-product-of-an-array.c",
           "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.c",
           "sha": "bc02cc36d4c96ae4983d2dbba5a8438b5aa53b0a",
-          "lastSyncedAt": "2026-10-18T17:32:49.965Z"
+          "lastSyncedAt": "2026-10-18T17:55:52.553Z"
         }
       ]
     },
