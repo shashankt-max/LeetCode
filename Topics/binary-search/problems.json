@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-17T16:31:05.165Z",
+  "updatedAt": "2026-10-18T17:20:48.986Z",
   "problems": [
     {
       "frontendId": "162",
@@ -64,6 +64,26 @@
           "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.c",
           "sha": "1e71816704885a01abb49372c9cc26d775328d07",
           "lastSyncedAt": "2026-10-17T16:30:16.463Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1268",
+      "title": "Search Suggestions System",
+      "slug": "search-suggestions-system",
+      "problemName": "1268-search-suggestions-system",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-suggestions-system/",
+      "folderPath": "1268-search-suggestions-system/",
+      "readmePath": "1268-search-suggestions-system/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1268-search-suggestions-system.c",
+          "path": "1268-search-suggestions-system/1268-search-suggestions-system.c",
+          "sha": "591e600821795bb70ee763382fb013e10170aa49",
+          "lastSyncedAt": "2026-10-18T17:20:48.986Z"
         }
       ]
     },
