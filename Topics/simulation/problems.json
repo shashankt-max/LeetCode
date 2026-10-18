@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-18T17:30:09.405Z",
+  "updatedAt": "2026-10-18T17:33:19.013Z",
   "problems": [
     {
       "frontendId": "657",
@@ -63,7 +63,7 @@
           "filename": "0735-asteroid-collision.c",
           "path": "0735-asteroid-collision/0735-asteroid-collision.c",
           "sha": "be0fd33ad8bce4d0a5aa75db440fc8afb04738c9",
-          "lastSyncedAt": "2026-10-16T18:16:38.646Z"
+          "lastSyncedAt": "2026-10-18T17:33:19.013Z"
         }
       ]
     },
