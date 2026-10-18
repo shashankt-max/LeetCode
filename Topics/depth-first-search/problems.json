@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-18T17:52:39.803Z",
+  "updatedAt": "2026-10-18T17:53:04.320Z",
   "problems": [
     {
       "frontendId": "104",
@@ -243,7 +243,7 @@
           "filename": "1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.c",
           "path": "1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero.c",
           "sha": "48a517c433003f3a85e136e1644244fbc9cbdf60",
-          "lastSyncedAt": "2026-10-18T17:29:56.479Z"
+          "lastSyncedAt": "2026-10-18T17:53:04.320Z"
         }
       ]
     }
