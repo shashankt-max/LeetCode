@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-18T17:31:36.799Z",
+  "updatedAt": "2026-10-18T17:33:39.796Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "2336-smallest-number-in-infinite-set/2336-smallest-number-in-infinite-set.c",
           "sha": "05b671078e15df840a8fb55ca181c87d021513b1",
           "lastSyncedAt": "2026-10-18T17:28:33.386Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2352",
+      "title": "Equal Row and Column Pairs",
+      "slug": "equal-row-and-column-pairs",
+      "problemName": "2352-equal-row-and-column-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-row-and-column-pairs/",
+      "folderPath": "2352-equal-row-and-column-pairs/",
+      "readmePath": "2352-equal-row-and-column-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2352-equal-row-and-column-pairs.c",
+          "path": "2352-equal-row-and-column-pairs/2352-equal-row-and-column-pairs.c",
+          "sha": "62d1c60d468947d4c260acab8bec777c7bd51008",
+          "lastSyncedAt": "2026-10-18T17:33:39.796Z"
         }
       ]
     },
