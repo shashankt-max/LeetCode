@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:34:47.968Z",
+  "updatedAt": "2026-10-18T17:35:12.123Z",
   "problems": [
     {
       "frontendId": "1",
@@ -444,6 +444,26 @@
           "path": "1275-find-winner-on-a-tic-tac-toe-game/1275-find-winner-on-a-tic-tac-toe-game.c",
           "sha": "01eadd0519e44ef6cc32b0cdd0289548526c7896",
           "lastSyncedAt": "2026-10-18T17:29:17.081Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1493",
+      "title": "Longest Subarray of 1's After Deleting One Element",
+      "slug": "longest-subarray-of-1s-after-deleting-one-element",
+      "problemName": "1493-longest-subarray-of-1s-after-deleting-one-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/",
+      "folderPath": "1493-longest-subarray-of-1s-after-deleting-one-element/",
+      "readmePath": "1493-longest-subarray-of-1s-after-deleting-one-element/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1493-longest-subarray-of-1s-after-deleting-one-element.c",
+          "path": "1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.c",
+          "sha": "93a1189d2ab5ac4ad4307e76feefbfb49e980a90",
+          "lastSyncedAt": "2026-10-18T17:35:12.123Z"
         }
       ]
     },
