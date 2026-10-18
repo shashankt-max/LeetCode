@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-18T17:21:51.711Z",
+  "updatedAt": "2026-10-18T17:21:56.164Z",
   "problems": [
     {
       "frontendId": "17",
@@ -23,7 +23,7 @@
           "filename": "0017-letter-combinations-of-a-phone-number.c",
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.c",
           "sha": "4718dc16ab17acb53e0b45f7a0f88109bc452fde",
-          "lastSyncedAt": "2026-10-17T16:30:09.987Z"
+          "lastSyncedAt": "2026-10-18T17:21:56.164Z"
         }
       ]
     },
