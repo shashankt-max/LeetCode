@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "longest-increasing-subsequence",
+    "name": "Longest Increasing Subsequence",
+    "tagId": "122079"
+  },
+  "updatedAt": "2026-10-18T17:36:51.150Z",
+  "problems": [
+    {
+      "frontendId": "334",
+      "title": "Increasing Triplet Subsequence",
+      "slug": "increasing-triplet-subsequence",
+      "problemName": "0334-increasing-triplet-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/increasing-triplet-subsequence/",
+      "folderPath": "0334-increasing-triplet-subsequence/",
+      "readmePath": "0334-increasing-triplet-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0334-increasing-triplet-subsequence.c",
+          "path": "0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.c",
+          "sha": "d06a0a6661015024c058ae7c753e489b26472857",
+          "lastSyncedAt": "2026-10-18T17:36:51.150Z"
+        }
+      ]
+    }
+  ]
+}
