@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-18T17:34:17.140Z",
+  "updatedAt": "2026-10-18T17:34:24.186Z",
   "problems": [
     {
       "frontendId": "1",
@@ -144,6 +144,26 @@
           "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.c",
           "sha": "bda06b5bc1166d8fbdf7952009730df002376874",
           "lastSyncedAt": "2026-10-18T17:33:50.241Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2215",
+      "title": "Find the Difference of Two Arrays",
+      "slug": "find-the-difference-of-two-arrays",
+      "problemName": "2215-find-the-difference-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference-of-two-arrays/",
+      "folderPath": "2215-find-the-difference-of-two-arrays/",
+      "readmePath": "2215-find-the-difference-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2215-find-the-difference-of-two-arrays.c",
+          "path": "2215-find-the-difference-of-two-arrays/2215-find-the-difference-of-two-arrays.c",
+          "sha": "8a1a56826a4a643360eb0ec2ff6e285e84b7a0e8",
+          "lastSyncedAt": "2026-10-18T17:34:24.186Z"
         }
       ]
     },
