@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-18T17:36:51.150Z",
+  "updatedAt": "2026-10-18T17:37:22.094Z",
   "problems": [
     {
       "frontendId": "11",
@@ -84,6 +84,26 @@
           "path": "0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.c",
           "sha": "26ca8367b8bebac608cef42f13eb31b2999c5471",
           "lastSyncedAt": "2026-10-18T17:24:56.924Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "605",
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "problemName": "0605-can-place-flowers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers/",
+      "folderPath": "0605-can-place-flowers/",
+      "readmePath": "0605-can-place-flowers/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0605-can-place-flowers.c",
+          "path": "0605-can-place-flowers/0605-can-place-flowers.c",
+          "sha": "d0567098dc84ef78fa3815ae74edf85091708d7c",
+          "lastSyncedAt": "2026-10-18T17:37:22.094Z"
         }
       ]
     },
