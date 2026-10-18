@@ -5,8 +5,28 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-18T17:35:12.123Z",
+  "updatedAt": "2026-10-18T17:35:22.967Z",
   "problems": [
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "1004-max-consecutive-ones-iii/",
+      "readmePath": "1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1004-max-consecutive-ones-iii.c",
+          "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.c",
+          "sha": "80ee2bbeb28101a82ba4edace3d99fc0e1ed36b6",
+          "lastSyncedAt": "2026-10-18T17:35:22.967Z"
+        }
+      ]
+    },
     {
       "frontendId": "1493",
       "title": "Longest Subarray of 1's After Deleting One Element",
