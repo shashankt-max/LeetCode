@@ -5,7 +5,7 @@
     "name": "Trie",
     "tagId": "27"
   },
-  "updatedAt": "2026-10-17T16:28:39.334Z",
+  "updatedAt": "2026-10-18T17:20:22.089Z",
   "problems": [
     {
       "frontendId": "208",
@@ -23,7 +23,7 @@
           "filename": "0208-implement-trie-prefix-tree.c",
           "path": "0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.c",
           "sha": "b5d5a9bb2a1360678bd029423ca56c9d2278087c",
-          "lastSyncedAt": "2026-10-17T16:28:39.334Z"
+          "lastSyncedAt": "2026-10-18T17:20:22.089Z"
         }
       ]
     }
