@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T17:33:25.003Z",
+  "updatedAt": "2026-10-18T17:33:50.241Z",
   "problems": [
     {
       "frontendId": "13",
@@ -464,6 +464,26 @@
           "path": "1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.c",
           "sha": "1f15b8c13e55562b589e77da313eb29ee6c75297",
           "lastSyncedAt": "2026-10-18T17:27:53.211Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1657",
+      "title": "Determine if Two Strings Are Close",
+      "slug": "determine-if-two-strings-are-close",
+      "problemName": "1657-determine-if-two-strings-are-close",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-if-two-strings-are-close/",
+      "folderPath": "1657-determine-if-two-strings-are-close/",
+      "readmePath": "1657-determine-if-two-strings-are-close/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1657-determine-if-two-strings-are-close.c",
+          "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.c",
+          "sha": "bda06b5bc1166d8fbdf7952009730df002376874",
+          "lastSyncedAt": "2026-10-18T17:33:50.241Z"
         }
       ]
     },
