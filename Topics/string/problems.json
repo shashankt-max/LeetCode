@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T17:33:50.241Z",
+  "updatedAt": "2026-10-18T17:34:01.903Z",
   "problems": [
     {
       "frontendId": "13",
@@ -224,6 +224,26 @@
           "path": "0399-evaluate-division/0399-evaluate-division.c",
           "sha": "9ab533d4f0608dcf942fb8bc011329c1c28723d0",
           "lastSyncedAt": "2026-10-18T17:29:30.199Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "459",
+      "title": "Repeated Substring Pattern",
+      "slug": "repeated-substring-pattern",
+      "problemName": "0459-repeated-substring-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/repeated-substring-pattern/",
+      "folderPath": "0459-repeated-substring-pattern/",
+      "readmePath": "0459-repeated-substring-pattern/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0459-repeated-substring-pattern.c",
+          "path": "0459-repeated-substring-pattern/0459-repeated-substring-pattern.c",
+          "sha": "3378741f7d3ddf685365ff71201c96267229647e",
+          "lastSyncedAt": "2026-10-18T17:34:01.903Z"
         }
       ]
     },
