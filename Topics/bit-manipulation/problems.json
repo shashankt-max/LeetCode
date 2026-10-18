@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-18T17:35:48.183Z",
+  "updatedAt": "2026-10-18T17:48:57.428Z",
   "problems": [
     {
       "frontendId": "136",
@@ -83,7 +83,7 @@
           "filename": "1318-minimum-flips-to-make-a-or-b-equal-to-c.c",
           "path": "1318-minimum-flips-to-make-a-or-b-equal-to-c/1318-minimum-flips-to-make-a-or-b-equal-to-c.c",
           "sha": "2f11301619b1e9d391cd760017df5d9fdddc0434",
-          "lastSyncedAt": "2026-10-18T17:25:47.824Z"
+          "lastSyncedAt": "2026-10-18T17:48:57.428Z"
         }
       ]
     },
