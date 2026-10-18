@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-18T17:23:09.976Z",
+  "updatedAt": "2026-10-18T17:23:10.315Z",
   "problems": [
     {
       "frontendId": "435",
@@ -24,6 +24,26 @@
           "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.c",
           "sha": "520cb2ae7ec44580e0e4e507d6b75ba637053494",
           "lastSyncedAt": "2026-10-18T17:22:05.645Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "452",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "slug": "minimum-number-of-arrows-to-burst-balloons",
+      "problemName": "0452-minimum-number-of-arrows-to-burst-balloons",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
+      "folderPath": "0452-minimum-number-of-arrows-to-burst-balloons/",
+      "readmePath": "0452-minimum-number-of-arrows-to-burst-balloons/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0452-minimum-number-of-arrows-to-burst-balloons.c",
+          "path": "0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.c",
+          "sha": "26ca8367b8bebac608cef42f13eb31b2999c5471",
+          "lastSyncedAt": "2026-10-18T17:23:10.315Z"
         }
       ]
     },
