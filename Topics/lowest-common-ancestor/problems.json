@@ -5,7 +5,7 @@
     "name": "Lowest Common Ancestor",
     "tagId": "70204"
   },
-  "updatedAt": "2026-10-17T16:34:24.463Z",
+  "updatedAt": "2026-10-18T17:31:20.679Z",
   "problems": [
     {
       "frontendId": "236",
@@ -23,7 +23,7 @@
           "filename": "0236-lowest-common-ancestor-of-a-binary-tree.c",
           "path": "0236-lowest-common-ancestor-of-a-binary-tree/0236-lowest-common-ancestor-of-a-binary-tree.c",
           "sha": "7d07a628fe7aae7b7f4398552ac66923c1f6153f",
-          "lastSyncedAt": "2026-10-17T16:34:24.463Z"
+          "lastSyncedAt": "2026-10-18T17:31:20.679Z"
         }
       ]
     }
