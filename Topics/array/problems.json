@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:37:22.094Z",
+  "updatedAt": "2026-10-18T17:37:28.518Z",
   "problems": [
     {
       "frontendId": "1",
@@ -564,6 +564,26 @@
           "path": "1275-find-winner-on-a-tic-tac-toe-game/1275-find-winner-on-a-tic-tac-toe-game.c",
           "sha": "01eadd0519e44ef6cc32b0cdd0289548526c7896",
           "lastSyncedAt": "2026-10-18T17:29:17.081Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1431",
+      "title": "Kids With the Greatest Number of Candies",
+      "slug": "kids-with-the-greatest-number-of-candies",
+      "problemName": "1431-kids-with-the-greatest-number-of-candies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+      "folderPath": "1431-kids-with-the-greatest-number-of-candies/",
+      "readmePath": "1431-kids-with-the-greatest-number-of-candies/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1431-kids-with-the-greatest-number-of-candies.c",
+          "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.c",
+          "sha": "17a4e224f75b36ae57c5bc4fbafbc1cf9405d94b",
+          "lastSyncedAt": "2026-10-18T17:37:28.518Z"
         }
       ]
     },
