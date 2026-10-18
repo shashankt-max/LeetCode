@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-18T17:21:05.083Z",
+  "updatedAt": "2026-10-18T17:21:10.200Z",
   "problems": [
     {
       "frontendId": "22",
@@ -243,7 +243,7 @@
           "filename": "1143-longest-common-subsequence.c",
           "path": "1143-longest-common-subsequence/1143-longest-common-subsequence.c",
           "sha": "903de4768cd8020ff4fac8213f42a60bc7dce742",
-          "lastSyncedAt": "2026-10-17T16:29:21.059Z"
+          "lastSyncedAt": "2026-10-18T17:21:10.200Z"
         }
       ]
     },
