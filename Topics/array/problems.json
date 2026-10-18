@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:26:07.969Z",
+  "updatedAt": "2026-10-18T17:26:15.124Z",
   "problems": [
     {
       "frontendId": "1",
@@ -243,7 +243,7 @@
           "filename": "0714-best-time-to-buy-and-sell-stock-with-transaction-fee.c",
           "path": "0714-best-time-to-buy-and-sell-stock-with-transaction-fee/0714-best-time-to-buy-and-sell-stock-with-transaction-fee.c",
           "sha": "37c5de0daa968d915dea83c8d9dc721615e648d9",
-          "lastSyncedAt": "2026-10-18T17:21:05.083Z"
+          "lastSyncedAt": "2026-10-18T17:26:15.124Z"
         }
       ]
     },
