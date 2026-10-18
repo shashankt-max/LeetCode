@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "z-algorithm",
+    "name": "Z Algorithm",
+    "tagId": "86036"
+  },
+  "updatedAt": "2026-10-18T17:34:01.903Z",
+  "problems": [
+    {
+      "frontendId": "459",
+      "title": "Repeated Substring Pattern",
+      "slug": "repeated-substring-pattern",
+      "problemName": "0459-repeated-substring-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/repeated-substring-pattern/",
+      "folderPath": "0459-repeated-substring-pattern/",
+      "readmePath": "0459-repeated-substring-pattern/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0459-repeated-substring-pattern.c",
+          "path": "0459-repeated-substring-pattern/0459-repeated-substring-pattern.c",
+          "sha": "3378741f7d3ddf685365ff71201c96267229647e",
+          "lastSyncedAt": "2026-10-18T17:34:01.903Z"
+        }
+      ]
+    }
+  ]
+}
