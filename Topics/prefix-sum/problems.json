@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-18T17:35:22.967Z",
+  "updatedAt": "2026-10-18T17:37:01.306Z",
   "problems": [
+    {
+      "frontendId": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "problemName": "0238-product-of-array-except-self",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+      "folderPath": "0238-product-of-array-except-self/",
+      "readmePath": "0238-product-of-array-except-self/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0238-product-of-array-except-self.c",
+          "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.c",
+          "sha": "c34a428f8ae6c23fe9ee665a88fb42da16891e72",
+          "lastSyncedAt": "2026-10-18T17:37:01.306Z"
+        }
+      ]
+    },
     {
       "frontendId": "724",
       "title": "Find Pivot Index",
