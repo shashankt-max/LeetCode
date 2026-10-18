@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T17:56:42.341Z",
+  "updatedAt": "2026-10-18T17:56:49.655Z",
   "problems": [
     {
       "frontendId": "13",
@@ -383,7 +383,7 @@
           "filename": "0459-repeated-substring-pattern.c",
           "path": "0459-repeated-substring-pattern/0459-repeated-substring-pattern.c",
           "sha": "3378741f7d3ddf685365ff71201c96267229647e",
-          "lastSyncedAt": "2026-10-18T17:34:01.903Z"
+          "lastSyncedAt": "2026-10-18T17:56:49.655Z"
         }
       ]
     },
