@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:34:17.140Z",
+  "updatedAt": "2026-10-18T17:34:24.186Z",
   "problems": [
     {
       "frontendId": "1",
@@ -544,6 +544,26 @@
           "path": "1926-nearest-exit-from-entrance-in-maze/1926-nearest-exit-from-entrance-in-maze.c",
           "sha": "e84db09ddc216261a68bacf069663c3c9a293b6b",
           "lastSyncedAt": "2026-10-18T17:29:24.217Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2215",
+      "title": "Find the Difference of Two Arrays",
+      "slug": "find-the-difference-of-two-arrays",
+      "problemName": "2215-find-the-difference-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference-of-two-arrays/",
+      "folderPath": "2215-find-the-difference-of-two-arrays/",
+      "readmePath": "2215-find-the-difference-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2215-find-the-difference-of-two-arrays.c",
+          "path": "2215-find-the-difference-of-two-arrays/2215-find-the-difference-of-two-arrays.c",
+          "sha": "8a1a56826a4a643360eb0ec2ff6e285e84b7a0e8",
+          "lastSyncedAt": "2026-10-18T17:34:24.186Z"
         }
       ]
     },
