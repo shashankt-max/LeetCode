@@ -5,7 +5,7 @@
     "name": "Binary Search Tree",
     "tagId": "30"
   },
-  "updatedAt": "2026-10-18T17:20:09.610Z",
+  "updatedAt": "2026-10-18T17:25:20.936Z",
   "problems": [
     {
       "frontendId": "450",
@@ -63,7 +63,7 @@
           "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.c",
           "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.c",
           "sha": "f8b7507163505be080a003c94af7636401818f30",
-          "lastSyncedAt": "2026-10-18T17:20:09.610Z"
+          "lastSyncedAt": "2026-10-18T17:25:20.936Z"
         }
       ]
     }
