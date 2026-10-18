@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-18T17:57:50.814Z",
+  "updatedAt": "2026-10-18T17:58:02.468Z",
   "problems": [
     {
       "frontendId": "215",
@@ -183,7 +183,7 @@
           "filename": "1679-max-number-of-k-sum-pairs.c",
           "path": "1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.c",
           "sha": "3e856a93c982cd45d2c3cdef99787c09eb5a10e0",
-          "lastSyncedAt": "2026-10-18T17:36:05.453Z"
+          "lastSyncedAt": "2026-10-18T17:58:02.468Z"
         }
       ]
     },
