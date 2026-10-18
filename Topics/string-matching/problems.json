@@ -5,8 +5,28 @@
     "name": "String Matching",
     "tagId": "61052"
   },
-  "updatedAt": "2026-10-18T17:34:01.903Z",
+  "updatedAt": "2026-10-18T17:34:55.261Z",
   "problems": [
+    {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.c",
+          "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.c",
+          "sha": "072d1d4b3973ae660197b3cf057b84eff59f0a68",
+          "lastSyncedAt": "2026-10-18T17:34:55.261Z"
+        }
+      ]
+    },
     {
       "frontendId": "459",
       "title": "Repeated Substring Pattern",
