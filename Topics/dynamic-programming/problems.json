@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-18T17:21:46.402Z",
+  "updatedAt": "2026-10-18T17:22:05.645Z",
   "problems": [
     {
       "frontendId": "22",
@@ -124,6 +124,26 @@
           "path": "0338-counting-bits/0338-counting-bits.c",
           "sha": "da3dd6bae7940fba24fcfa68d17c788b09a8ea70",
           "lastSyncedAt": "2026-10-18T17:20:44.809Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "435",
+      "title": "Non-overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "problemName": "0435-non-overlapping-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "folderPath": "0435-non-overlapping-intervals/",
+      "readmePath": "0435-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0435-non-overlapping-intervals.c",
+          "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.c",
+          "sha": "520cb2ae7ec44580e0e4e507d6b75ba637053494",
+          "lastSyncedAt": "2026-10-18T17:22:05.645Z"
         }
       ]
     },
