@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T17:51:58.195Z",
+  "updatedAt": "2026-10-18T17:52:18.509Z",
   "problems": [
     {
       "frontendId": "13",
@@ -503,7 +503,7 @@
           "filename": "0921-minimum-add-to-make-parentheses-valid.c",
           "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.c",
           "sha": "8a3485cfea13d68f8c8a1df9c02462779b1c905f",
-          "lastSyncedAt": "2026-10-18T17:29:09.082Z"
+          "lastSyncedAt": "2026-10-18T17:52:18.509Z"
         }
       ]
     },
