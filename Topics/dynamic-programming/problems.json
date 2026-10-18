@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-18T17:22:05.645Z",
+  "updatedAt": "2026-10-18T17:25:03.268Z",
   "problems": [
     {
       "frontendId": "22",
@@ -143,7 +143,7 @@
           "filename": "0435-non-overlapping-intervals.c",
           "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.c",
           "sha": "520cb2ae7ec44580e0e4e507d6b75ba637053494",
-          "lastSyncedAt": "2026-10-18T17:22:05.645Z"
+          "lastSyncedAt": "2026-10-18T17:25:03.268Z"
         }
       ]
     },
