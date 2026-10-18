@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:58:37.245Z",
+  "updatedAt": "2026-10-18T17:58:50.618Z",
   "problems": [
     {
       "frontendId": "1",
@@ -303,7 +303,7 @@
           "filename": "0605-can-place-flowers.c",
           "path": "0605-can-place-flowers/0605-can-place-flowers.c",
           "sha": "d0567098dc84ef78fa3815ae74edf85091708d7c",
-          "lastSyncedAt": "2026-10-18T17:37:22.094Z"
+          "lastSyncedAt": "2026-10-18T17:58:50.618Z"
         }
       ]
     },
