@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T17:35:48.183Z",
+  "updatedAt": "2026-10-18T17:35:58.993Z",
   "problems": [
     {
       "frontendId": "13",
@@ -584,6 +584,26 @@
           "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.c",
           "sha": "bda06b5bc1166d8fbdf7952009730df002376874",
           "lastSyncedAt": "2026-10-18T17:33:50.241Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1768",
+      "title": "Merge Strings Alternately",
+      "slug": "merge-strings-alternately",
+      "problemName": "1768-merge-strings-alternately",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-strings-alternately/",
+      "folderPath": "1768-merge-strings-alternately/",
+      "readmePath": "1768-merge-strings-alternately/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1768-merge-strings-alternately.c",
+          "path": "1768-merge-strings-alternately/1768-merge-strings-alternately.c",
+          "sha": "676340fe8f39c689959a9778b0a40c696ff2814a",
+          "lastSyncedAt": "2026-10-18T17:35:58.993Z"
         }
       ]
     },
