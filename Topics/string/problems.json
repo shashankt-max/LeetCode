@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T17:36:34.752Z",
+  "updatedAt": "2026-10-18T17:36:44.527Z",
   "problems": [
     {
       "frontendId": "13",
@@ -304,6 +304,26 @@
           "path": "0399-evaluate-division/0399-evaluate-division.c",
           "sha": "9ab533d4f0608dcf942fb8bc011329c1c28723d0",
           "lastSyncedAt": "2026-10-18T17:29:30.199Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "443",
+      "title": "String Compression",
+      "slug": "string-compression",
+      "problemName": "0443-string-compression",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+      "folderPath": "0443-string-compression/",
+      "readmePath": "0443-string-compression/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0443-string-compression.c",
+          "path": "0443-string-compression/0443-string-compression.c",
+          "sha": "ddab886c56b6ae86766198ea46f0688c7d625c59",
+          "lastSyncedAt": "2026-10-18T17:36:44.527Z"
         }
       ]
     },
