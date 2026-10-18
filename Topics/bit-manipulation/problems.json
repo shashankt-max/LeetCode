@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-18T17:27:32.584Z",
+  "updatedAt": "2026-10-18T17:35:48.183Z",
   "problems": [
     {
       "frontendId": "136",
@@ -44,6 +44,26 @@
           "path": "0338-counting-bits/0338-counting-bits.c",
           "sha": "da3dd6bae7940fba24fcfa68d17c788b09a8ea70",
           "lastSyncedAt": "2026-10-18T17:26:00.062Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "problemName": "0389-find-the-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+      "folderPath": "0389-find-the-difference/",
+      "readmePath": "0389-find-the-difference/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0389-find-the-difference.c",
+          "path": "0389-find-the-difference/0389-find-the-difference.c",
+          "sha": "e15708cb1771116b0721633bc5a5f8bfbc2b662b",
+          "lastSyncedAt": "2026-10-18T17:35:48.183Z"
         }
       ]
     },
