@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:54:06.718Z",
+  "updatedAt": "2026-10-18T17:55:16.561Z",
   "problems": [
     {
       "frontendId": "1",
@@ -463,7 +463,7 @@
           "filename": "0896-monotonic-array.c",
           "path": "0896-monotonic-array/0896-monotonic-array.c",
           "sha": "ee9844fda39042b6daffe4184ba8b5f578044fb7",
-          "lastSyncedAt": "2026-10-18T17:32:10.582Z"
+          "lastSyncedAt": "2026-10-18T17:55:16.561Z"
         }
       ]
     },
