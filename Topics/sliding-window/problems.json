@@ -5,8 +5,28 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-18T17:35:33.797Z",
+  "updatedAt": "2026-10-18T17:35:41.172Z",
   "problems": [
+    {
+      "frontendId": "643",
+      "title": "Maximum Average Subarray I",
+      "slug": "maximum-average-subarray-i",
+      "problemName": "0643-maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+      "folderPath": "0643-maximum-average-subarray-i/",
+      "readmePath": "0643-maximum-average-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0643-maximum-average-subarray-i.c",
+          "path": "0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.c",
+          "sha": "c326e22dd570cb02298a19da87c107bbfe0563d9",
+          "lastSyncedAt": "2026-10-18T17:35:41.172Z"
+        }
+      ]
+    },
     {
       "frontendId": "1004",
       "title": "Max Consecutive Ones III",
