@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-18T17:35:48.183Z",
+  "updatedAt": "2026-10-18T17:36:05.453Z",
   "problems": [
     {
       "frontendId": "215",
@@ -164,6 +164,26 @@
           "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.c",
           "sha": "bda06b5bc1166d8fbdf7952009730df002376874",
           "lastSyncedAt": "2026-10-18T17:33:50.241Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1679",
+      "title": "Max Number of K-Sum Pairs",
+      "slug": "max-number-of-k-sum-pairs",
+      "problemName": "1679-max-number-of-k-sum-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-number-of-k-sum-pairs/",
+      "folderPath": "1679-max-number-of-k-sum-pairs/",
+      "readmePath": "1679-max-number-of-k-sum-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1679-max-number-of-k-sum-pairs.c",
+          "path": "1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.c",
+          "sha": "3e856a93c982cd45d2c3cdef99787c09eb5a10e0",
+          "lastSyncedAt": "2026-10-18T17:36:05.453Z"
         }
       ]
     },
