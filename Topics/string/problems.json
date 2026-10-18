@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T17:58:27.457Z",
+  "updatedAt": "2026-10-18T17:58:42.067Z",
   "problems": [
     {
       "frontendId": "13",
@@ -183,7 +183,7 @@
           "filename": "0151-reverse-words-in-a-string.c",
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.c",
           "sha": "ee113d7978b6b0ee3ca9d66d9e49c20cf89cd429",
-          "lastSyncedAt": "2026-10-18T17:37:08.296Z"
+          "lastSyncedAt": "2026-10-18T17:58:42.067Z"
         }
       ]
     },
