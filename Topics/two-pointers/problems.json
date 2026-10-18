@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-18T17:35:58.993Z",
+  "updatedAt": "2026-10-18T17:36:05.453Z",
   "problems": [
     {
       "frontendId": "28",
@@ -44,6 +44,26 @@
           "path": "0283-move-zeroes/0283-move-zeroes.c",
           "sha": "132ab0d2bd16047c4c34340c32a471a10743ba06",
           "lastSyncedAt": "2026-10-18T17:33:32.393Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1679",
+      "title": "Max Number of K-Sum Pairs",
+      "slug": "max-number-of-k-sum-pairs",
+      "problemName": "1679-max-number-of-k-sum-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-number-of-k-sum-pairs/",
+      "folderPath": "1679-max-number-of-k-sum-pairs/",
+      "readmePath": "1679-max-number-of-k-sum-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1679-max-number-of-k-sum-pairs.c",
+          "path": "1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.c",
+          "sha": "3e856a93c982cd45d2c3cdef99787c09eb5a10e0",
+          "lastSyncedAt": "2026-10-18T17:36:05.453Z"
         }
       ]
     },
