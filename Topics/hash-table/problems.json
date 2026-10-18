@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-18T17:33:39.796Z",
+  "updatedAt": "2026-10-18T17:33:50.241Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "1275-find-winner-on-a-tic-tac-toe-game/1275-find-winner-on-a-tic-tac-toe-game.c",
           "sha": "01eadd0519e44ef6cc32b0cdd0289548526c7896",
           "lastSyncedAt": "2026-10-18T17:29:17.081Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1657",
+      "title": "Determine if Two Strings Are Close",
+      "slug": "determine-if-two-strings-are-close",
+      "problemName": "1657-determine-if-two-strings-are-close",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-if-two-strings-are-close/",
+      "folderPath": "1657-determine-if-two-strings-are-close/",
+      "readmePath": "1657-determine-if-two-strings-are-close/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1657-determine-if-two-strings-are-close.c",
+          "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.c",
+          "sha": "bda06b5bc1166d8fbdf7952009730df002376874",
+          "lastSyncedAt": "2026-10-18T17:33:50.241Z"
         }
       ]
     },
