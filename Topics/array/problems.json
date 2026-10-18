@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:56:18.717Z",
+  "updatedAt": "2026-10-18T17:56:29.830Z",
   "problems": [
     {
       "frontendId": "1",
@@ -203,7 +203,7 @@
           "filename": "0283-move-zeroes.c",
           "path": "0283-move-zeroes/0283-move-zeroes.c",
           "sha": "132ab0d2bd16047c4c34340c32a471a10743ba06",
-          "lastSyncedAt": "2026-10-18T17:33:32.393Z"
+          "lastSyncedAt": "2026-10-18T17:56:29.830Z"
         }
       ]
     },
