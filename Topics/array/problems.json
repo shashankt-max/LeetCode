@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:36:14.466Z",
+  "updatedAt": "2026-10-18T17:36:22.407Z",
   "problems": [
     {
       "frontendId": "1",
@@ -504,6 +504,26 @@
           "path": "1275-find-winner-on-a-tic-tac-toe-game/1275-find-winner-on-a-tic-tac-toe-game.c",
           "sha": "01eadd0519e44ef6cc32b0cdd0289548526c7896",
           "lastSyncedAt": "2026-10-18T17:29:17.081Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "1470-shuffle-the-array/",
+      "readmePath": "1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1470-shuffle-the-array.c",
+          "path": "1470-shuffle-the-array/1470-shuffle-the-array.c",
+          "sha": "faf680e11bf0a3f1772ab447fd64ae38e9f3e02e",
+          "lastSyncedAt": "2026-10-18T17:36:22.407Z"
         }
       ]
     },
