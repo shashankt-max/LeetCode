@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-18T17:32:18.296Z",
+  "updatedAt": "2026-10-18T17:32:23.067Z",
   "problems": [
     {
       "frontendId": "104",
@@ -23,7 +23,7 @@
           "filename": "0104-maximum-depth-of-binary-tree.c",
           "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.c",
           "sha": "32604d3b1d1e58c2a1bc08cf451f1f41d955f070",
-          "lastSyncedAt": "2026-10-16T18:14:56.878Z"
+          "lastSyncedAt": "2026-10-18T17:32:23.067Z"
         }
       ]
     },
