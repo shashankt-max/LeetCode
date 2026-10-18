@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-18T17:31:03.447Z",
+  "updatedAt": "2026-10-18T17:50:18.934Z",
   "problems": [
     {
       "frontendId": "17",
@@ -63,7 +63,7 @@
           "filename": "0216-combination-sum-iii.c",
           "path": "0216-combination-sum-iii/0216-combination-sum-iii.c",
           "sha": "755f5d7db4222b1593b2f3773f3aa15aa8fb5838",
-          "lastSyncedAt": "2026-10-18T17:27:05.459Z"
+          "lastSyncedAt": "2026-10-18T17:50:18.934Z"
         }
       ]
     },
