@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum",
+    "tagId": "61068"
+  },
+  "updatedAt": "2026-10-18T17:34:39.406Z",
+  "problems": [
+    {
+      "frontendId": "724",
+      "title": "Find Pivot Index",
+      "slug": "find-pivot-index",
+      "problemName": "0724-find-pivot-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+      "folderPath": "0724-find-pivot-index/",
+      "readmePath": "0724-find-pivot-index/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0724-find-pivot-index.c",
+          "path": "0724-find-pivot-index/0724-find-pivot-index.c",
+          "sha": "b49555b38703eb0919e03fdc0efc0b523e10f50b",
+          "lastSyncedAt": "2026-10-18T17:34:39.406Z"
+        }
+      ]
+    }
+  ]
+}
