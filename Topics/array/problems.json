@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:22:01.687Z",
+  "updatedAt": "2026-10-18T17:22:05.645Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "0399-evaluate-division/0399-evaluate-division.c",
           "sha": "9ab533d4f0608dcf942fb8bc011329c1c28723d0",
           "lastSyncedAt": "2026-10-17T16:32:32.336Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "435",
+      "title": "Non-overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "problemName": "0435-non-overlapping-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "folderPath": "0435-non-overlapping-intervals/",
+      "readmePath": "0435-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0435-non-overlapping-intervals.c",
+          "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.c",
+          "sha": "520cb2ae7ec44580e0e4e507d6b75ba637053494",
+          "lastSyncedAt": "2026-10-18T17:22:05.645Z"
         }
       ]
     },
