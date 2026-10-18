@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-18T17:19:20.415Z",
+  "updatedAt": "2026-10-18T17:20:09.610Z",
   "problems": [
     {
       "frontendId": "215",
@@ -43,7 +43,7 @@
           "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.c",
           "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.c",
           "sha": "f8b7507163505be080a003c94af7636401818f30",
-          "lastSyncedAt": "2026-10-18T17:19:20.415Z"
+          "lastSyncedAt": "2026-10-18T17:20:09.610Z"
         }
       ]
     }
