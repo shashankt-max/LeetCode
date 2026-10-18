@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T17:57:18.310Z",
+  "updatedAt": "2026-10-18T17:57:43.020Z",
   "problems": [
     {
       "frontendId": "13",
@@ -643,7 +643,7 @@
           "filename": "1456-maximum-number-of-vowels-in-a-substring-of-given-length.c",
           "path": "1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.c",
           "sha": "8983fcb3a76048abe230fcbd10182981ad81758f",
-          "lastSyncedAt": "2026-10-18T17:35:33.797Z"
+          "lastSyncedAt": "2026-10-18T17:57:43.020Z"
         }
       ]
     },
