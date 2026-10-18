@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-18T17:36:44.527Z",
+  "updatedAt": "2026-10-18T17:37:08.296Z",
   "problems": [
     {
       "frontendId": "11",
@@ -44,6 +44,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.c",
           "sha": "072d1d4b3973ae660197b3cf057b84eff59f0a68",
           "lastSyncedAt": "2026-10-18T17:34:55.261Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "151",
+      "title": "Reverse Words in a String",
+      "slug": "reverse-words-in-a-string",
+      "problemName": "0151-reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
+      "folderPath": "0151-reverse-words-in-a-string/",
+      "readmePath": "0151-reverse-words-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0151-reverse-words-in-a-string.c",
+          "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.c",
+          "sha": "ee113d7978b6b0ee3ca9d66d9e49c20cf89cd429",
+          "lastSyncedAt": "2026-10-18T17:37:08.296Z"
         }
       ]
     },
