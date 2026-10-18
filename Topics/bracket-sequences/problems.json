@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-18T17:23:00.639Z",
+  "updatedAt": "2026-10-18T17:27:53.211Z",
   "problems": [
     {
       "frontendId": "20",
@@ -183,7 +183,7 @@
           "filename": "1541-minimum-insertions-to-balance-a-parentheses-string.c",
           "path": "1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.c",
           "sha": "1f15b8c13e55562b589e77da313eb29ee6c75297",
-          "lastSyncedAt": "2026-10-18T17:22:40.020Z"
+          "lastSyncedAt": "2026-10-18T17:27:53.211Z"
         }
       ]
     }
