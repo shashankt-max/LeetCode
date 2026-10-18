@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:35:22.967Z",
+  "updatedAt": "2026-10-18T17:35:41.172Z",
   "problems": [
     {
       "frontendId": "1",
@@ -224,6 +224,26 @@
           "path": "0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.c",
           "sha": "26ca8367b8bebac608cef42f13eb31b2999c5471",
           "lastSyncedAt": "2026-10-18T17:24:56.924Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "643",
+      "title": "Maximum Average Subarray I",
+      "slug": "maximum-average-subarray-i",
+      "problemName": "0643-maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+      "folderPath": "0643-maximum-average-subarray-i/",
+      "readmePath": "0643-maximum-average-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0643-maximum-average-subarray-i.c",
+          "path": "0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.c",
+          "sha": "c326e22dd570cb02298a19da87c107bbfe0563d9",
+          "lastSyncedAt": "2026-10-18T17:35:41.172Z"
         }
       ]
     },
