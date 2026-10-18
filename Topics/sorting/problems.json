@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-18T17:50:37.502Z",
+  "updatedAt": "2026-10-18T17:50:56.981Z",
   "problems": [
     {
       "frontendId": "215",
@@ -223,7 +223,7 @@
           "filename": "2333-minimum-sum-of-squared-difference.c",
           "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.c",
           "sha": "3f7a444ef8bd3b6acffd7fa186bfa660b721ca03",
-          "lastSyncedAt": "2026-10-18T17:27:44.308Z"
+          "lastSyncedAt": "2026-10-18T17:50:56.981Z"
         }
       ]
     },
