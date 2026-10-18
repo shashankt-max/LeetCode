@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "euclidean-algorithm",
+    "name": "Euclidean Algorithm",
+    "tagId": "89463"
+  },
+  "updatedAt": "2026-10-18T17:37:33.796Z",
+  "problems": [
+    {
+      "frontendId": "1071",
+      "title": "Greatest Common Divisor of Strings",
+      "slug": "greatest-common-divisor-of-strings",
+      "problemName": "1071-greatest-common-divisor-of-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
+      "folderPath": "1071-greatest-common-divisor-of-strings/",
+      "readmePath": "1071-greatest-common-divisor-of-strings/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1071-greatest-common-divisor-of-strings.c",
+          "path": "1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.c",
+          "sha": "21047c3607a8ccb6ed40fe0278b6ad7767b01a1a",
+          "lastSyncedAt": "2026-10-18T17:37:33.796Z"
+        }
+      ]
+    }
+  ]
+}
