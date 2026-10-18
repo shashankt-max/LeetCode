@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-18T17:36:34.752Z",
+  "updatedAt": "2026-10-18T17:36:44.527Z",
   "problems": [
     {
       "frontendId": "11",
@@ -84,6 +84,26 @@
           "path": "0392-is-subsequence/0392-is-subsequence.c",
           "sha": "8b63f4f845ed2daf6d454dcb9c46f6a817d7ea8c",
           "lastSyncedAt": "2026-10-18T17:36:34.752Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "443",
+      "title": "String Compression",
+      "slug": "string-compression",
+      "problemName": "0443-string-compression",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+      "folderPath": "0443-string-compression/",
+      "readmePath": "0443-string-compression/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0443-string-compression.c",
+          "path": "0443-string-compression/0443-string-compression.c",
+          "sha": "ddab886c56b6ae86766198ea46f0688c7d625c59",
+          "lastSyncedAt": "2026-10-18T17:36:44.527Z"
         }
       ]
     },
