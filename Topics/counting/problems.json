@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "counting",
+    "name": "Counting",
+    "tagId": "61062"
+  },
+  "updatedAt": "2026-10-18T17:33:50.241Z",
+  "problems": [
+    {
+      "frontendId": "1657",
+      "title": "Determine if Two Strings Are Close",
+      "slug": "determine-if-two-strings-are-close",
+      "problemName": "1657-determine-if-two-strings-are-close",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-if-two-strings-are-close/",
+      "folderPath": "1657-determine-if-two-strings-are-close/",
+      "readmePath": "1657-determine-if-two-strings-are-close/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1657-determine-if-two-strings-are-close.c",
+          "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.c",
+          "sha": "bda06b5bc1166d8fbdf7952009730df002376874",
+          "lastSyncedAt": "2026-10-18T17:33:50.241Z"
+        }
+      ]
+    }
+  ]
+}
