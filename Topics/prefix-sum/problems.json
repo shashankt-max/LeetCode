@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-18T17:34:47.968Z",
+  "updatedAt": "2026-10-18T17:35:22.967Z",
   "problems": [
     {
       "frontendId": "724",
@@ -24,6 +24,26 @@
           "path": "0724-find-pivot-index/0724-find-pivot-index.c",
           "sha": "b49555b38703eb0919e03fdc0efc0b523e10f50b",
           "lastSyncedAt": "2026-10-18T17:34:39.406Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "1004-max-consecutive-ones-iii/",
+      "readmePath": "1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1004-max-consecutive-ones-iii.c",
+          "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.c",
+          "sha": "80ee2bbeb28101a82ba4edace3d99fc0e1ed36b6",
+          "lastSyncedAt": "2026-10-18T17:35:22.967Z"
         }
       ]
     },
