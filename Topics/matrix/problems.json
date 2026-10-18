@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-18T17:29:24.217Z",
+  "updatedAt": "2026-10-18T17:33:39.796Z",
   "problems": [
     {
       "frontendId": "994",
@@ -104,6 +104,26 @@
           "path": "1926-nearest-exit-from-entrance-in-maze/1926-nearest-exit-from-entrance-in-maze.c",
           "sha": "e84db09ddc216261a68bacf069663c3c9a293b6b",
           "lastSyncedAt": "2026-10-18T17:29:24.217Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2352",
+      "title": "Equal Row and Column Pairs",
+      "slug": "equal-row-and-column-pairs",
+      "problemName": "2352-equal-row-and-column-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-row-and-column-pairs/",
+      "folderPath": "2352-equal-row-and-column-pairs/",
+      "readmePath": "2352-equal-row-and-column-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2352-equal-row-and-column-pairs.c",
+          "path": "2352-equal-row-and-column-pairs/2352-equal-row-and-column-pairs.c",
+          "sha": "62d1c60d468947d4c260acab8bec777c7bd51008",
+          "lastSyncedAt": "2026-10-18T17:33:39.796Z"
         }
       ]
     }
