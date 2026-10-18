@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-18T17:32:13.411Z",
+  "updatedAt": "2026-10-18T17:33:50.241Z",
   "problems": [
     {
       "frontendId": "215",
@@ -104,6 +104,26 @@
           "path": "1502-can-make-arithmetic-progression-from-sequence/1502-can-make-arithmetic-progression-from-sequence.c",
           "sha": "22cb7c303070507a939987f0c7992b46a4dab340",
           "lastSyncedAt": "2026-10-18T17:32:13.411Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1657",
+      "title": "Determine if Two Strings Are Close",
+      "slug": "determine-if-two-strings-are-close",
+      "problemName": "1657-determine-if-two-strings-are-close",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-if-two-strings-are-close/",
+      "folderPath": "1657-determine-if-two-strings-are-close/",
+      "readmePath": "1657-determine-if-two-strings-are-close/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1657-determine-if-two-strings-are-close.c",
+          "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.c",
+          "sha": "bda06b5bc1166d8fbdf7952009730df002376874",
+          "lastSyncedAt": "2026-10-18T17:33:50.241Z"
         }
       ]
     },
