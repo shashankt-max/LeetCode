@@ -5,7 +5,7 @@
     "name": "Combinatorics",
     "tagId": "61056"
   },
-  "updatedAt": "2026-10-17T16:29:33.321Z",
+  "updatedAt": "2026-10-18T17:16:56.941Z",
   "problems": [
     {
       "frontendId": "62",
@@ -24,6 +24,26 @@
           "path": "0062-unique-paths/0062-unique-paths.c",
           "sha": "c686eb9544f73896b85707f2c8aee6000d1f60a3",
           "lastSyncedAt": "2026-10-17T16:29:33.321Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1569",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "problemName": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+      "folderPath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/",
+      "readmePath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.c",
+          "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.c",
+          "sha": "f8b7507163505be080a003c94af7636401818f30",
+          "lastSyncedAt": "2026-10-18T17:16:56.941Z"
         }
       ]
     }
