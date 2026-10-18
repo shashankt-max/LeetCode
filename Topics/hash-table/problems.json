@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-18T17:36:05.453Z",
+  "updatedAt": "2026-10-18T17:48:49.597Z",
   "problems": [
     {
       "frontendId": "1",
@@ -83,7 +83,7 @@
           "filename": "0208-implement-trie-prefix-tree.c",
           "path": "0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.c",
           "sha": "b5d5a9bb2a1360678bd029423ca56c9d2278087c",
-          "lastSyncedAt": "2026-10-18T17:25:39.950Z"
+          "lastSyncedAt": "2026-10-18T17:48:49.597Z"
         }
       ]
     },
