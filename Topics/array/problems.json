@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:20:37.078Z",
+  "updatedAt": "2026-10-18T17:20:48.986Z",
   "problems": [
     {
       "frontendId": "1",
@@ -304,6 +304,26 @@
           "path": "0994-rotting-oranges/0994-rotting-oranges.c",
           "sha": "b4488be13251766b375f7e11b83cd7c819f9e6a6",
           "lastSyncedAt": "2026-10-17T16:32:05.423Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1268",
+      "title": "Search Suggestions System",
+      "slug": "search-suggestions-system",
+      "problemName": "1268-search-suggestions-system",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-suggestions-system/",
+      "folderPath": "1268-search-suggestions-system/",
+      "readmePath": "1268-search-suggestions-system/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1268-search-suggestions-system.c",
+          "path": "1268-search-suggestions-system/1268-search-suggestions-system.c",
+          "sha": "591e600821795bb70ee763382fb013e10170aa49",
+          "lastSyncedAt": "2026-10-18T17:20:48.986Z"
         }
       ]
     },
