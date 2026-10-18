@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T17:37:08.296Z",
+  "updatedAt": "2026-10-18T17:37:14.621Z",
   "problems": [
     {
       "frontendId": "13",
@@ -244,6 +244,26 @@
           "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.c",
           "sha": "ffe131161d638ec74f21b4a871d46cc579a3f1d4",
           "lastSyncedAt": "2026-10-18T17:28:41.482Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "345",
+      "title": "Reverse Vowels of a String",
+      "slug": "reverse-vowels-of-a-string",
+      "problemName": "0345-reverse-vowels-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+      "folderPath": "0345-reverse-vowels-of-a-string/",
+      "readmePath": "0345-reverse-vowels-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0345-reverse-vowels-of-a-string.c",
+          "path": "0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.c",
+          "sha": "e0223e54f19662883aa976189a49d61f767aa23f",
+          "lastSyncedAt": "2026-10-18T17:37:14.621Z"
         }
       ]
     },
