@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T17:37:14.621Z",
+  "updatedAt": "2026-10-18T17:37:33.796Z",
   "problems": [
     {
       "frontendId": "13",
@@ -544,6 +544,26 @@
           "path": "1041-robot-bounded-in-circle/1041-robot-bounded-in-circle.c",
           "sha": "3011f47b82882c59b79d399ba20e0940956af826",
           "lastSyncedAt": "2026-10-18T17:28:47.213Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1071",
+      "title": "Greatest Common Divisor of Strings",
+      "slug": "greatest-common-divisor-of-strings",
+      "problemName": "1071-greatest-common-divisor-of-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
+      "folderPath": "1071-greatest-common-divisor-of-strings/",
+      "readmePath": "1071-greatest-common-divisor-of-strings/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1071-greatest-common-divisor-of-strings.c",
+          "path": "1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.c",
+          "sha": "21047c3607a8ccb6ed40fe0278b6ad7767b01a1a",
+          "lastSyncedAt": "2026-10-18T17:37:33.796Z"
         }
       ]
     },
