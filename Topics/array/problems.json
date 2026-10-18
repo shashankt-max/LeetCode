@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:36:22.407Z",
+  "updatedAt": "2026-10-18T17:36:27.201Z",
   "problems": [
     {
       "frontendId": "1",
@@ -704,6 +704,26 @@
           "path": "1926-nearest-exit-from-entrance-in-maze/1926-nearest-exit-from-entrance-in-maze.c",
           "sha": "e84db09ddc216261a68bacf069663c3c9a293b6b",
           "lastSyncedAt": "2026-10-18T17:29:24.217Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "problemName": "1929-concatenation-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "folderPath": "1929-concatenation-of-array/",
+      "readmePath": "1929-concatenation-of-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1929-concatenation-of-array.c",
+          "path": "1929-concatenation-of-array/1929-concatenation-of-array.c",
+          "sha": "a3fec670c2fa43e2c5d9046ee34077d1a1eeea04",
+          "lastSyncedAt": "2026-10-18T17:36:27.201Z"
         }
       ]
     },
