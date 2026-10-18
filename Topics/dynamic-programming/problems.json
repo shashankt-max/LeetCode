@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-18T17:35:12.123Z",
+  "updatedAt": "2026-10-18T17:36:34.752Z",
   "problems": [
     {
       "frontendId": "22",
@@ -124,6 +124,26 @@
           "path": "0338-counting-bits/0338-counting-bits.c",
           "sha": "da3dd6bae7940fba24fcfa68d17c788b09a8ea70",
           "lastSyncedAt": "2026-10-18T17:26:00.062Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0392-is-subsequence.c",
+          "path": "0392-is-subsequence/0392-is-subsequence.c",
+          "sha": "8b63f4f845ed2daf6d454dcb9c46f6a817d7ea8c",
+          "lastSyncedAt": "2026-10-18T17:36:34.752Z"
         }
       ]
     },
