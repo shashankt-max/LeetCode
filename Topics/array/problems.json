@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:58:17.108Z",
+  "updatedAt": "2026-10-18T17:58:31.322Z",
   "problems": [
     {
       "frontendId": "1",
@@ -223,7 +223,7 @@
           "filename": "0334-increasing-triplet-subsequence.c",
           "path": "0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.c",
           "sha": "d06a0a6661015024c058ae7c753e489b26472857",
-          "lastSyncedAt": "2026-10-18T17:36:51.150Z"
+          "lastSyncedAt": "2026-10-18T17:58:31.322Z"
         }
       ]
     },
