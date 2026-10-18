@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T17:55:11.434Z",
+  "updatedAt": "2026-10-18T17:55:56.831Z",
   "problems": [
     {
       "frontendId": "13",
@@ -403,7 +403,7 @@
           "filename": "0649-dota2-senate.c",
           "path": "0649-dota2-senate/0649-dota2-senate.c",
           "sha": "3a17bef22ef7ee75e32264fe7d45590ce3213dee",
-          "lastSyncedAt": "2026-10-18T17:32:54.967Z"
+          "lastSyncedAt": "2026-10-18T17:55:56.831Z"
         }
       ]
     },
