@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T17:57:58.704Z",
+  "updatedAt": "2026-10-18T17:58:21.206Z",
   "problems": [
     {
       "frontendId": "13",
@@ -303,7 +303,7 @@
           "filename": "0392-is-subsequence.c",
           "path": "0392-is-subsequence/0392-is-subsequence.c",
           "sha": "8b63f4f845ed2daf6d454dcb9c46f6a817d7ea8c",
-          "lastSyncedAt": "2026-10-18T17:36:34.752Z"
+          "lastSyncedAt": "2026-10-18T17:58:21.206Z"
         }
       ]
     },
