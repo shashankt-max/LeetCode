@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-10-18T17:56:03.658Z",
+  "updatedAt": "2026-10-19T13:43:07.341Z",
   "problems": [
     {
       "frontendId": "208",
@@ -24,6 +24,26 @@
           "path": "0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.c",
           "sha": "b5d5a9bb2a1360678bd029423ca56c9d2278087c",
           "lastSyncedAt": "2026-10-18T17:48:49.597Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "problemName": "0901-online-stock-span",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+      "folderPath": "0901-online-stock-span/",
+      "readmePath": "0901-online-stock-span/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0901-online-stock-span.c",
+          "path": "0901-online-stock-span/0901-online-stock-span.c",
+          "sha": "b766c5981470a3c28b091b72c21a2107e4e292c6",
+          "lastSyncedAt": "2026-10-19T13:43:07.341Z"
         }
       ]
     },
