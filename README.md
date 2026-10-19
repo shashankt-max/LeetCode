@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 114 | 46 | 63 | 5 |
+| 115 | 46 | 64 | 5 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-10-16 | 3 |
 | 2026-10-17 | 4 |
 | 2026-10-18 | 4 |
-| 2026-10-19 | 2 |
+| 2026-10-19 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 54 | 47% |
-| String | 36 | 32% |
+| String | 36 | 31% |
 | Dynamic Programming | 17 | 15% |
 | Hash Table | 17 | 15% |
 | Greedy | 15 | 13% |
 | Sorting | 15 | 13% |
-| Stack | 14 | 12% |
+| Stack | 15 | 13% |
 | Two Pointers | 13 | 11% |
-| Depth-First Search | 12 | 11% |
+| Depth-First Search | 12 | 10% |
 | Binary Tree | 11 | 10% |
 
 ## Topics
@@ -63,9 +63,9 @@ Contains topicwise list of solved problems.
 | [Breadth-First Search](Topics/breadth-first-search/) | 11 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting](Topics/counting/) | 1 |
-| [Data Stream](Topics/data-stream/) | 1 |
+| [Data Stream](Topics/data-stream/) | 2 |
 | [Depth-First Search](Topics/depth-first-search/) | 12 |
-| [Design](Topics/design/) | 3 |
+| [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 17 |
@@ -87,7 +87,7 @@ Contains topicwise list of solved problems.
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 6 |
 | [Memoization](Topics/memoization/) | 2 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 1 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 4 |
 | [Queue](Topics/queue/) | 2 |
