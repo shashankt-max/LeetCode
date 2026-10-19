@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 112 | 45 | 62 | 5 |
+| 114 | 46 | 63 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 10 days | 28 |
+| 9 days | 10 days | 29 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-04 | 5 |
 | 2026-10-05 | 8 |
 | 2026-10-06 | 4 |
 | 2026-10-07 | 4 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-16 | 3 |
 | 2026-10-17 | 4 |
 | 2026-10-18 | 4 |
+| 2026-10-19 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 52 | 46% |
+| Array | 54 | 47% |
 | String | 36 | 32% |
 | Dynamic Programming | 17 | 15% |
 | Hash Table | 17 | 15% |
 | Greedy | 15 | 13% |
-| Sorting | 14 | 13% |
-| Stack | 13 | 12% |
-| Two Pointers | 13 | 12% |
+| Sorting | 15 | 13% |
+| Stack | 14 | 12% |
+| Two Pointers | 13 | 11% |
 | Depth-First Search | 12 | 11% |
 | Binary Tree | 11 | 10% |
 
@@ -49,12 +49,12 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 52 |
+| [Array](Topics/array/) | 54 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
-| [Binary Search](Topics/binary-search/) | 7 |
+| [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 11 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
@@ -87,6 +87,7 @@ Contains topicwise list of solved problems.
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 6 |
 | [Memoization](Topics/memoization/) | 2 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 4 |
 | [Queue](Topics/queue/) | 2 |
@@ -96,8 +97,8 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 9 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
-| [Sorting](Topics/sorting/) | 14 |
-| [Stack](Topics/stack/) | 13 |
+| [Sorting](Topics/sorting/) | 15 |
+| [Stack](Topics/stack/) | 15 |
 | [String](Topics/string/) | 36 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Tree](Topics/tree/) | 11 |
