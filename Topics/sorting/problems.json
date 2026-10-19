@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-18T17:58:02.468Z",
+  "updatedAt": "2026-10-19T13:40:50.433Z",
   "problems": [
     {
       "frontendId": "215",
@@ -184,6 +184,26 @@
           "path": "1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.c",
           "sha": "3e856a93c982cd45d2c3cdef99787c09eb5a10e0",
           "lastSyncedAt": "2026-10-18T17:58:02.468Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "problemName": "2089-find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "folderPath": "2089-find-target-indices-after-sorting-array/",
+      "readmePath": "2089-find-target-indices-after-sorting-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2089-find-target-indices-after-sorting-array.c",
+          "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.c",
+          "sha": "592235a6463c7b2d735ed9aa147cc67c8bbca696",
+          "lastSyncedAt": "2026-10-19T13:40:50.433Z"
         }
       ]
     },
