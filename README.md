@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 115 | 46 | 64 | 5 |
+| 116 | 46 | 64 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 9 days | 10 days | 29 |
+| 10 days | 10 days | 30 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-05 | 8 |
 | 2026-10-06 | 4 |
 | 2026-10-07 | 4 |
 | 2026-10-08 | 4 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-17 | 4 |
 | 2026-10-18 | 4 |
 | 2026-10-19 | 3 |
+| 2026-10-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 54 | 47% |
+| Array | 55 | 47% |
 | String | 36 | 31% |
 | Dynamic Programming | 17 | 15% |
 | Hash Table | 17 | 15% |
+| Sorting | 16 | 14% |
 | Greedy | 15 | 13% |
-| Sorting | 15 | 13% |
 | Stack | 15 | 13% |
 | Two Pointers | 13 | 11% |
 | Depth-First Search | 12 | 10% |
-| Binary Tree | 11 | 10% |
+| Binary Tree | 11 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 54 |
+| [Array](Topics/array/) | 55 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 2 |
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 17 |
-| [Enumeration](Topics/enumeration/) | 1 |
+| [Enumeration](Topics/enumeration/) | 2 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
@@ -84,7 +84,7 @@ Contains topicwise list of solved problems.
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 9 |
+| [Math](Topics/math/) | 10 |
 | [Matrix](Topics/matrix/) | 6 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
@@ -97,7 +97,7 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 9 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
-| [Sorting](Topics/sorting/) | 15 |
+| [Sorting](Topics/sorting/) | 16 |
 | [Stack](Topics/stack/) | 15 |
 | [String](Topics/string/) | 36 |
 | [String Matching](Topics/string-matching/) | 2 |
