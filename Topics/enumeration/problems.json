@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-18T17:50:52.858Z",
+  "updatedAt": "2026-10-20T16:14:53.057Z",
   "problems": [
     {
       "frontendId": "2778",
@@ -24,6 +24,26 @@
           "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.c",
           "sha": "09c6e8e7715f17a6457f0d06a92af73191254f54",
           "lastSyncedAt": "2026-10-18T17:50:52.858Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3886",
+      "title": "Sum of Sortable Integers",
+      "slug": "sum-of-sortable-integers",
+      "problemName": "3886-sum-of-sortable-integers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-sortable-integers/",
+      "folderPath": "3886-sum-of-sortable-integers/",
+      "readmePath": "3886-sum-of-sortable-integers/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3886-sum-of-sortable-integers.c",
+          "path": "3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.c",
+          "sha": "7e844c76f7ce4be63bf0c6bf1429119883d451cc",
+          "lastSyncedAt": "2026-10-20T16:14:53.057Z"
         }
       ]
     }
