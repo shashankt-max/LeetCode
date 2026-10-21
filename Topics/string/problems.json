@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-21T16:36:31.065Z",
+  "updatedAt": "2026-10-21T16:37:11.251Z",
   "problems": [
     {
       "frontendId": "13",
@@ -743,7 +743,7 @@
           "filename": "3863-minimum-operations-to-sort-a-string.c",
           "path": "3863-minimum-operations-to-sort-a-string/3863-minimum-operations-to-sort-a-string.c",
           "sha": "d009d39c93ab06c95b94768c0b463b4d18e49a06",
-          "lastSyncedAt": "2026-10-21T16:36:31.065Z"
+          "lastSyncedAt": "2026-10-21T16:37:11.251Z"
         }
       ]
     }
