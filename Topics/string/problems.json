@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T16:12:48.711Z",
+  "updatedAt": "2026-10-22T16:14:01.189Z",
   "problems": [
     {
       "frontendId": "13",
@@ -43,7 +43,7 @@
           "filename": "0017-letter-combinations-of-a-phone-number.c",
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.c",
           "sha": "4718dc16ab17acb53e0b45f7a0f88109bc452fde",
-          "lastSyncedAt": "2026-10-18T17:50:24.127Z"
+          "lastSyncedAt": "2026-10-22T16:14:01.189Z"
         }
       ]
     },
