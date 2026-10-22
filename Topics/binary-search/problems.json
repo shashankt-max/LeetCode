@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-22T16:11:07.991Z",
+  "updatedAt": "2026-10-22T16:14:09.482Z",
   "problems": [
     {
       "frontendId": "162",
@@ -63,7 +63,7 @@
           "filename": "0875-koko-eating-bananas.c",
           "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.c",
           "sha": "1e71816704885a01abb49372c9cc26d775328d07",
-          "lastSyncedAt": "2026-10-18T17:50:29.376Z"
+          "lastSyncedAt": "2026-10-22T16:14:09.482Z"
         }
       ]
     },
