@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T16:14:45.965Z",
+  "updatedAt": "2026-10-22T16:15:44.433Z",
   "problems": [
     {
       "frontendId": "215",
@@ -263,7 +263,7 @@
           "filename": "2542-maximum-subsequence-score.c",
           "path": "2542-maximum-subsequence-score/2542-maximum-subsequence-score.c",
           "sha": "119f71284a05a43f7df40e27ad87d5db9e9727fb",
-          "lastSyncedAt": "2026-10-18T17:51:38.043Z"
+          "lastSyncedAt": "2026-10-22T16:15:44.433Z"
         }
       ]
     },
