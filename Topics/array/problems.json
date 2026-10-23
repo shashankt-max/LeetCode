@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T16:16:34.201Z",
+  "updatedAt": "2026-10-23T16:18:52.282Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1064,6 +1064,26 @@
           "path": "3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.c",
           "sha": "e47ac4298914bfe39aa51bbb6563f215df2ae123",
           "lastSyncedAt": "2026-10-22T16:12:11.527Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3644",
+      "title": "Maximum K to Sort a Permutation",
+      "slug": "maximum-k-to-sort-a-permutation",
+      "problemName": "3644-maximum-k-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+      "folderPath": "3644-maximum-k-to-sort-a-permutation/",
+      "readmePath": "3644-maximum-k-to-sort-a-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3644-maximum-k-to-sort-a-permutation.c",
+          "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.c",
+          "sha": "ce480094bd51d2364bd2acd6c122f69e6bdc9fcc",
+          "lastSyncedAt": "2026-10-23T16:18:52.282Z"
         }
       ]
     },
