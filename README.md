@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 117 | 46 | 65 | 6 |
+| 119 | 46 | 67 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 11 days | 11 days | 31 |
+| 13 days | 13 days | 33 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-07 | 4 |
-| 2026-10-08 | 4 |
 | 2026-10-09 | 4 |
 | 2026-10-11 | 1 |
 | 2026-10-12 | 8 |
@@ -29,16 +27,18 @@ Contains topicwise list of solved problems.
 | 2026-10-19 | 3 |
 | 2026-10-20 | 1 |
 | 2026-10-21 | 1 |
+| 2026-10-22 | 1 |
+| 2026-10-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 55 | 47% |
-| String | 37 | 32% |
-| Dynamic Programming | 17 | 15% |
-| Hash Table | 17 | 15% |
-| Sorting | 16 | 14% |
+| Array | 57 | 48% |
+| String | 37 | 31% |
+| Dynamic Programming | 17 | 14% |
+| Hash Table | 17 | 14% |
+| Sorting | 16 | 13% |
 | Greedy | 15 | 13% |
 | Stack | 15 | 13% |
 | Two Pointers | 13 | 11% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 55 |
+| [Array](Topics/array/) | 57 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 2 |
@@ -57,7 +57,7 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 11 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 5 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 6 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 9 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 11 |
