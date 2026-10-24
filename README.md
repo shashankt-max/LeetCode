@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 119 | 46 | 67 | 6 |
+| 120 | 47 | 67 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 13 days | 13 days | 33 |
+| 1 days | 13 days | 34 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-09 | 4 |
 | 2026-10-11 | 1 |
 | 2026-10-12 | 8 |
 | 2026-10-13 | 3 |
@@ -29,13 +28,14 @@ Contains topicwise list of solved problems.
 | 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
+| 2026-10-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 57 | 48% |
-| String | 37 | 31% |
+| String | 38 | 32% |
 | Dynamic Programming | 17 | 14% |
 | Hash Table | 17 | 14% |
 | Sorting | 16 | 13% |
@@ -84,7 +84,7 @@ Contains topicwise list of solved problems.
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 10 |
+| [Math](Topics/math/) | 11 |
 | [Matrix](Topics/matrix/) | 6 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
@@ -99,7 +99,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 16 |
 | [Stack](Topics/stack/) | 15 |
-| [String](Topics/string/) | 37 |
+| [String](Topics/string/) | 38 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Tree](Topics/tree/) | 11 |
 | [Trie](Topics/trie/) | 2 |
