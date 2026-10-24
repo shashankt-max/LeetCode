@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T16:16:13.831Z",
+  "updatedAt": "2026-10-24T19:24:51.376Z",
   "problems": [
     {
       "frontendId": "13",
@@ -164,6 +164,26 @@
           "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.c",
           "sha": "bc02cc36d4c96ae4983d2dbba5a8438b5aa53b0a",
           "lastSyncedAt": "2026-10-18T17:55:52.553Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2409",
+      "title": "Count Days Spent Together",
+      "slug": "count-days-spent-together",
+      "problemName": "2409-count-days-spent-together",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
+      "folderPath": "2409-count-days-spent-together/",
+      "readmePath": "2409-count-days-spent-together/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2409-count-days-spent-together.c",
+          "path": "2409-count-days-spent-together/2409-count-days-spent-together.c",
+          "sha": "88c83be178687b4ba91f3014cbea574deae18465",
+          "lastSyncedAt": "2026-10-24T19:24:51.376Z"
         }
       ]
     },
