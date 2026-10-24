@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-22T16:16:13.831Z",
+  "updatedAt": "2026-10-24T19:24:51.376Z",
   "problems": [
     {
       "frontendId": "13",
@@ -724,6 +724,26 @@
           "path": "2390-removing-stars-from-a-string/2390-removing-stars-from-a-string.c",
           "sha": "b192c9a9b3805261a4025f5546b7a7b26a945b2f",
           "lastSyncedAt": "2026-10-18T17:56:24.551Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2409",
+      "title": "Count Days Spent Together",
+      "slug": "count-days-spent-together",
+      "problemName": "2409-count-days-spent-together",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
+      "folderPath": "2409-count-days-spent-together/",
+      "readmePath": "2409-count-days-spent-together/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2409-count-days-spent-together.c",
+          "path": "2409-count-days-spent-together/2409-count-days-spent-together.c",
+          "sha": "88c83be178687b4ba91f3014cbea574deae18465",
+          "lastSyncedAt": "2026-10-24T19:24:51.376Z"
         }
       ]
     },
