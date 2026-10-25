@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-22T16:16:34.201Z",
+  "updatedAt": "2026-10-25T16:23:23.653Z",
   "problems": [
     {
       "frontendId": "104",
@@ -164,6 +164,26 @@
           "path": "1161-maximum-level-sum-of-a-binary-tree/1161-maximum-level-sum-of-a-binary-tree.c",
           "sha": "06b6dcf413fc31271d745983272ebb39e0124b3e",
           "lastSyncedAt": "2026-10-18T17:53:51.209Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1254",
+      "title": "Number of Closed Islands",
+      "slug": "number-of-closed-islands",
+      "problemName": "1254-number-of-closed-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+      "folderPath": "1254-number-of-closed-islands/",
+      "readmePath": "1254-number-of-closed-islands/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1254-number-of-closed-islands.c",
+          "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.c",
+          "sha": "6c5efe1980dc6ef8a8a2bed460bf77146c8af9de",
+          "lastSyncedAt": "2026-10-25T16:23:23.653Z"
         }
       ]
     },
