@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-26T17:46:20.541Z",
+  "updatedAt": "2026-10-26T17:47:08.300Z",
   "problems": [
     {
       "frontendId": "104",
@@ -143,7 +143,7 @@
           "filename": "0994-rotting-oranges.c",
           "path": "0994-rotting-oranges/0994-rotting-oranges.c",
           "sha": "b4488be13251766b375f7e11b83cd7c819f9e6a6",
-          "lastSyncedAt": "2026-10-22T16:16:34.201Z"
+          "lastSyncedAt": "2026-10-26T17:47:08.300Z"
         }
       ]
     },
