@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-26T17:48:55.167Z",
+  "updatedAt": "2026-10-26T17:49:46.509Z",
   "problems": [
     {
       "frontendId": "104",
@@ -143,7 +143,7 @@
           "filename": "0841-keys-and-rooms.c",
           "path": "0841-keys-and-rooms/0841-keys-and-rooms.c",
           "sha": "7eb5ad52c94cb160dbe74d24f3bd07fb8a121936",
-          "lastSyncedAt": "2026-10-18T17:53:22.635Z"
+          "lastSyncedAt": "2026-10-26T17:49:46.509Z"
         }
       ]
     },
