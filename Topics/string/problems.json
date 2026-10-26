@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-26T17:50:55.594Z",
+  "updatedAt": "2026-10-26T17:51:18.055Z",
   "problems": [
     {
       "frontendId": "13",
@@ -83,7 +83,7 @@
           "filename": "0022-generate-parentheses.c",
           "path": "0022-generate-parentheses/0022-generate-parentheses.c",
           "sha": "85cc6c21cae9415def4927c77b4132417a2842ec",
-          "lastSyncedAt": "2026-10-18T17:54:11.786Z"
+          "lastSyncedAt": "2026-10-26T17:51:18.055Z"
         }
       ]
     },
