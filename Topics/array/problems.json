@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T17:43:44.978Z",
+  "updatedAt": "2026-10-26T17:44:00.328Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1023,7 +1023,7 @@
           "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.c",
           "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.c",
           "sha": "5bc169ade11b54520f48b51352bbcb68911134a2",
-          "lastSyncedAt": "2026-10-22T16:14:28.661Z"
+          "lastSyncedAt": "2026-10-26T17:44:00.328Z"
         }
       ]
     },
