@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 120 | 47 | 67 | 6 |
+| 122 | 47 | 69 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 13 days | 34 |
+| 2 days | 13 days | 35 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-11 | 1 |
 | 2026-10-12 | 8 |
 | 2026-10-13 | 3 |
 | 2026-10-14 | 3 |
@@ -28,28 +27,29 @@ Contains topicwise list of solved problems.
 | 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
-| 2026-10-25 | 1 |
+| 2026-10-25 | 2 |
+| 2026-10-26 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 57 | 48% |
-| String | 38 | 32% |
+| Array | 59 | 48% |
+| String | 38 | 31% |
 | Dynamic Programming | 17 | 14% |
 | Hash Table | 17 | 14% |
 | Sorting | 16 | 13% |
-| Greedy | 15 | 13% |
-| Stack | 15 | 13% |
+| Greedy | 15 | 12% |
+| Stack | 15 | 12% |
+| Depth-First Search | 14 | 11% |
+| Breadth-First Search | 13 | 11% |
 | Two Pointers | 13 | 11% |
-| Depth-First Search | 12 | 10% |
-| Binary Tree | 11 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 57 |
+| [Array](Topics/array/) | 59 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 2 |
@@ -60,11 +60,11 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 6 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 9 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 11 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 13 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Stream](Topics/data-stream/) | 2 |
-| [Depth-First Search](Topics/depth-first-search/) | 12 |
+| [Depth-First Search](Topics/depth-first-search/) | 14 |
 | [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
@@ -85,7 +85,7 @@ Contains topicwise list of solved problems.
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 11 |
-| [Matrix](Topics/matrix/) | 6 |
+| [Matrix](Topics/matrix/) | 8 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
@@ -104,6 +104,6 @@ Contains topicwise list of solved problems.
 | [Tree](Topics/tree/) | 11 |
 | [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 13 |
-| [Union-Find](Topics/union-find/) | 3 |
+| [Union-Find](Topics/union-find/) | 5 |
 | [Z Algorithm](Topics/z-algorithm/) | 2 |
 <!---LeetHub Summary End-->
