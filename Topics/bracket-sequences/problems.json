@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-26T17:50:12.727Z",
+  "updatedAt": "2026-10-26T17:50:55.594Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,7 +63,7 @@
           "filename": "0032-longest-valid-parentheses.c",
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.c",
           "sha": "b3e940d2e36db7392df89a95b27bc80377184624",
-          "lastSyncedAt": "2026-10-18T17:54:00.140Z"
+          "lastSyncedAt": "2026-10-26T17:50:55.594Z"
         }
       ]
     },
