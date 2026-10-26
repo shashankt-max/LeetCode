@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-26T17:53:01.430Z",
+  "updatedAt": "2026-10-26T17:53:45.984Z",
   "problems": [
     {
       "frontendId": "104",
@@ -163,7 +163,7 @@
           "filename": "0872-leaf-similar-trees.c",
           "path": "0872-leaf-similar-trees/0872-leaf-similar-trees.c",
           "sha": "73b24ed98df762f0de8bec3e68da2da7c63284cf",
-          "lastSyncedAt": "2026-10-18T17:55:24.538Z"
+          "lastSyncedAt": "2026-10-26T17:53:45.984Z"
         }
       ]
     },
