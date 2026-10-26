@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T17:55:15.017Z",
+  "updatedAt": "2026-10-26T17:55:45.146Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1123,7 +1123,7 @@
           "filename": "3644-maximum-k-to-sort-a-permutation.c",
           "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.c",
           "sha": "ce480094bd51d2364bd2acd6c122f69e6bdc9fcc",
-          "lastSyncedAt": "2026-10-26T17:37:23.076Z"
+          "lastSyncedAt": "2026-10-26T17:55:45.146Z"
         }
       ]
     },
