@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T17:45:48.473Z",
+  "updatedAt": "2026-10-26T17:46:49.407Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,7 +143,7 @@
           "filename": "0215-kth-largest-element-in-an-array.c",
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.c",
           "sha": "d7be46ec5c767657d0d25f61795df2a218d39175",
-          "lastSyncedAt": "2026-10-22T16:16:21.740Z"
+          "lastSyncedAt": "2026-10-26T17:46:49.407Z"
         }
       ]
     },
