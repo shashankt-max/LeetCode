@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T17:37:23.076Z",
+  "updatedAt": "2026-10-26T17:37:30.541Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1183,7 +1183,7 @@
           "filename": "3942-minimum-operations-to-sort-a-permutation.c",
           "path": "3942-minimum-operations-to-sort-a-permutation/3942-minimum-operations-to-sort-a-permutation.c",
           "sha": "718009a4b8f021f2de73b736588d0cd2f7fd3b93",
-          "lastSyncedAt": "2026-10-22T16:10:06.138Z"
+          "lastSyncedAt": "2026-10-26T17:37:30.541Z"
         }
       ]
     }
