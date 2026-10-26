@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T17:41:52.109Z",
+  "updatedAt": "2026-10-26T17:42:25.211Z",
   "problems": [
     {
       "frontendId": "1",
@@ -123,7 +123,7 @@
           "filename": "0198-house-robber.c",
           "path": "0198-house-robber/0198-house-robber.c",
           "sha": "927644fe145d65c084dfbd972cadbac9f5d405c2",
-          "lastSyncedAt": "2026-10-22T16:13:23.096Z"
+          "lastSyncedAt": "2026-10-26T17:42:25.211Z"
         }
       ]
     },
