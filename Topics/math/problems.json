@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-26T17:55:37.016Z",
+  "updatedAt": "2026-10-26T17:56:17.060Z",
   "problems": [
     {
       "frontendId": "13",
@@ -223,7 +223,7 @@
           "filename": "3886-sum-of-sortable-integers.c",
           "path": "3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.c",
           "sha": "7e844c76f7ce4be63bf0c6bf1429119883d451cc",
-          "lastSyncedAt": "2026-10-26T17:37:40.078Z"
+          "lastSyncedAt": "2026-10-26T17:56:17.060Z"
         }
       ]
     }
