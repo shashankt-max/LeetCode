@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-26T17:47:08.300Z",
+  "updatedAt": "2026-10-26T17:47:47.289Z",
   "problems": [
     {
       "frontendId": "104",
@@ -243,7 +243,7 @@
           "filename": "1926-nearest-exit-from-entrance-in-maze.c",
           "path": "1926-nearest-exit-from-entrance-in-maze/1926-nearest-exit-from-entrance-in-maze.c",
           "sha": "e84db09ddc216261a68bacf069663c3c9a293b6b",
-          "lastSyncedAt": "2026-10-18T17:52:34.823Z"
+          "lastSyncedAt": "2026-10-26T17:47:47.289Z"
         }
       ]
     },
