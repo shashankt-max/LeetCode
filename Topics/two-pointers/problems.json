@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-26T17:54:57.148Z",
+  "updatedAt": "2026-10-26T17:56:57.475Z",
   "problems": [
     {
       "frontendId": "11",
@@ -83,7 +83,7 @@
           "filename": "0283-move-zeroes.c",
           "path": "0283-move-zeroes/0283-move-zeroes.c",
           "sha": "132ab0d2bd16047c4c34340c32a471a10743ba06",
-          "lastSyncedAt": "2026-10-18T17:56:29.830Z"
+          "lastSyncedAt": "2026-10-26T17:56:57.475Z"
         }
       ]
     },
