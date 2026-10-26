@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-26T17:46:49.407Z",
+  "updatedAt": "2026-10-26T17:53:37.359Z",
   "problems": [
     {
       "frontendId": "215",
@@ -143,7 +143,7 @@
           "filename": "1502-can-make-arithmetic-progression-from-sequence.c",
           "path": "1502-can-make-arithmetic-progression-from-sequence/1502-can-make-arithmetic-progression-from-sequence.c",
           "sha": "22cb7c303070507a939987f0c7992b46a4dab340",
-          "lastSyncedAt": "2026-10-18T17:55:20.239Z"
+          "lastSyncedAt": "2026-10-26T17:53:37.359Z"
         }
       ]
     },
