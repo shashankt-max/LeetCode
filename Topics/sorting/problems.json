@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-26T17:57:15.414Z",
+  "updatedAt": "2026-10-26T17:57:36.037Z",
   "problems": [
     {
       "frontendId": "215",
@@ -103,7 +103,7 @@
           "filename": "0452-minimum-number-of-arrows-to-burst-balloons.c",
           "path": "0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.c",
           "sha": "26ca8367b8bebac608cef42f13eb31b2999c5471",
-          "lastSyncedAt": "2026-10-26T17:38:36.301Z"
+          "lastSyncedAt": "2026-10-26T17:57:36.037Z"
         }
       ]
     },
