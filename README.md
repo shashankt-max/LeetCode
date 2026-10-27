@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 122 | 47 | 69 | 6 |
+| 123 | 48 | 69 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 13 days | 35 |
+| 3 days | 13 days | 36 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-12 | 8 |
 | 2026-10-13 | 3 |
 | 2026-10-14 | 3 |
 | 2026-10-15 | 3 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-10-23 | 1 |
 | 2026-10-25 | 2 |
 | 2026-10-26 | 1 |
+| 2026-10-27 | 1 |
 
 ## Top Tags
 
