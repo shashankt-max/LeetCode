@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T17:58:28.336Z",
+  "updatedAt": "2026-10-28T02:56:28.729Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1144,6 +1144,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.c",
           "sha": "3ff6c345d24c7e95fd6402966845e9f0f6820195",
           "lastSyncedAt": "2026-10-26T17:42:43.181Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3882",
+      "title": "Minimum XOR Path in a Grid",
+      "slug": "minimum-xor-path-in-a-grid",
+      "problemName": "3882-minimum-xor-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/",
+      "folderPath": "3882-minimum-xor-path-in-a-grid/",
+      "readmePath": "3882-minimum-xor-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3882-minimum-xor-path-in-a-grid.c",
+          "path": "3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.c",
+          "sha": "47febf7fd962cb6e8e30eb4b5f20ee8e7d60a6c2",
+          "lastSyncedAt": "2026-10-28T02:56:28.729Z"
         }
       ]
     },
