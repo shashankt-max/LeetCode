@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-26T17:57:18.318Z",
+  "updatedAt": "2026-10-28T02:56:28.729Z",
   "problems": [
     {
       "frontendId": "994",
@@ -164,6 +164,26 @@
           "path": "3619-count-islands-with-total-value-divisible-by-k/3619-count-islands-with-total-value-divisible-by-k.c",
           "sha": "f6389e8619cccfa3b2df1c18f4d9944235320cfd",
           "lastSyncedAt": "2026-10-26T17:54:49.361Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3882",
+      "title": "Minimum XOR Path in a Grid",
+      "slug": "minimum-xor-path-in-a-grid",
+      "problemName": "3882-minimum-xor-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/",
+      "folderPath": "3882-minimum-xor-path-in-a-grid/",
+      "readmePath": "3882-minimum-xor-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3882-minimum-xor-path-in-a-grid.c",
+          "path": "3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.c",
+          "sha": "47febf7fd962cb6e8e30eb4b5f20ee8e7d60a6c2",
+          "lastSyncedAt": "2026-10-28T02:56:28.729Z"
         }
       ]
     }
