@@ -5,7 +5,7 @@
     "name": "Binary Indexed Tree",
     "tagId": "28"
   },
-  "updatedAt": "2026-10-26T17:41:52.109Z",
+  "updatedAt": "2026-10-29T18:13:05.319Z",
   "problems": [
     {
       "frontendId": "2913",
@@ -44,6 +44,26 @@
           "path": "2916-subarrays-distinct-element-sum-of-squares-ii/2916-subarrays-distinct-element-sum-of-squares-ii.c",
           "sha": "ae7c580e07fba711089882bbcc5623c2a9078522",
           "lastSyncedAt": "2026-10-26T17:41:13.051Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3841",
+      "title": "Palindromic Path Queries in a Tree",
+      "slug": "palindromic-path-queries-in-a-tree",
+      "problemName": "3841-palindromic-path-queries-in-a-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+      "folderPath": "3841-palindromic-path-queries-in-a-tree/",
+      "readmePath": "3841-palindromic-path-queries-in-a-tree/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3841-palindromic-path-queries-in-a-tree.c",
+          "path": "3841-palindromic-path-queries-in-a-tree/3841-palindromic-path-queries-in-a-tree.c",
+          "sha": "a46e54a54f958a6d3e19e7c562b949fb83647dad",
+          "lastSyncedAt": "2026-10-29T18:13:05.319Z"
         }
       ]
     }
