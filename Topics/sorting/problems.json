@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-26T17:58:09.116Z",
+  "updatedAt": "2026-11-02T16:10:35.387Z",
   "problems": [
     {
       "frontendId": "215",
@@ -104,6 +104,26 @@
           "path": "0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.c",
           "sha": "26ca8367b8bebac608cef42f13eb31b2999c5471",
           "lastSyncedAt": "2026-10-26T17:57:36.037Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "462",
+      "title": "Minimum Moves to Equal Array Elements II",
+      "slug": "minimum-moves-to-equal-array-elements-ii",
+      "problemName": "0462-minimum-moves-to-equal-array-elements-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/",
+      "folderPath": "0462-minimum-moves-to-equal-array-elements-ii/",
+      "readmePath": "0462-minimum-moves-to-equal-array-elements-ii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0462-minimum-moves-to-equal-array-elements-ii.c",
+          "path": "0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii.c",
+          "sha": "53e0dac9d142755ab3aa43c457a5ac60a4e7eed4",
+          "lastSyncedAt": "2026-11-02T16:10:35.387Z"
         }
       ]
     },
