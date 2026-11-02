@@ -5,7 +5,7 @@
     "name": "Binary Indexed Tree",
     "tagId": "28"
   },
-  "updatedAt": "2026-10-29T18:13:05.319Z",
+  "updatedAt": "2026-11-02T16:11:21.306Z",
   "problems": [
     {
       "frontendId": "2913",
@@ -63,7 +63,7 @@
           "filename": "3841-palindromic-path-queries-in-a-tree.c",
           "path": "3841-palindromic-path-queries-in-a-tree/3841-palindromic-path-queries-in-a-tree.c",
           "sha": "a46e54a54f958a6d3e19e7c562b949fb83647dad",
-          "lastSyncedAt": "2026-10-29T18:13:05.319Z"
+          "lastSyncedAt": "2026-11-02T16:11:21.306Z"
         }
       ]
     }
