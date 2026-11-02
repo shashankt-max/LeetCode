@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-02T16:15:33.250Z",
+  "updatedAt": "2026-11-02T16:15:58.411Z",
   "problems": [
     {
       "frontendId": "22",
@@ -203,7 +203,7 @@
           "filename": "0714-best-time-to-buy-and-sell-stock-with-transaction-fee.c",
           "path": "0714-best-time-to-buy-and-sell-stock-with-transaction-fee/0714-best-time-to-buy-and-sell-stock-with-transaction-fee.c",
           "sha": "37c5de0daa968d915dea83c8d9dc721615e648d9",
-          "lastSyncedAt": "2026-10-26T17:41:27.304Z"
+          "lastSyncedAt": "2026-11-02T16:15:58.411Z"
         }
       ]
     },
