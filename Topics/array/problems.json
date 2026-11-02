@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-02T16:15:16.215Z",
+  "updatedAt": "2026-11-02T16:15:43.768Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1103,7 +1103,7 @@
           "filename": "2916-subarrays-distinct-element-sum-of-squares-ii.c",
           "path": "2916-subarrays-distinct-element-sum-of-squares-ii/2916-subarrays-distinct-element-sum-of-squares-ii.c",
           "sha": "ae7c580e07fba711089882bbcc5623c2a9078522",
-          "lastSyncedAt": "2026-10-26T17:41:13.051Z"
+          "lastSyncedAt": "2026-11-02T16:15:43.768Z"
         }
       ]
     },
