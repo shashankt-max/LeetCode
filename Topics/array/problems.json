@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-02T16:18:13.767Z",
+  "updatedAt": "2026-11-03T13:44:09.421Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1204,6 +1204,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.c",
           "sha": "3ff6c345d24c7e95fd6402966845e9f0f6820195",
           "lastSyncedAt": "2026-11-02T16:17:14.711Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "folderPath": "3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3736-minimum-moves-to-equal-array-elements-iii.c",
+          "path": "3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.c",
+          "sha": "e4bf7e054ad99e74435da86c59c062f231aa92c3",
+          "lastSyncedAt": "2026-11-03T13:44:09.421Z"
         }
       ]
     },
