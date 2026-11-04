@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-03T13:45:29.058Z",
+  "updatedAt": "2026-11-04T16:23:11.185Z",
   "problems": [
     {
       "frontendId": "215",
@@ -124,6 +124,26 @@
           "path": "2542-maximum-subsequence-score/2542-maximum-subsequence-score.c",
           "sha": "119f71284a05a43f7df40e27ad87d5db9e9727fb",
           "lastSyncedAt": "2026-10-26T17:45:48.473Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3505",
+      "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+      "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "problemName": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "folderPath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "readmePath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal.c",
+          "path": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.c",
+          "sha": "74e8105433a7bad8f6860d0333fb6f17f0ffeaca",
+          "lastSyncedAt": "2026-11-04T16:23:11.185Z"
         }
       ]
     },
