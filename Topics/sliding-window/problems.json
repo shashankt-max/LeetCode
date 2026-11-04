@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-18T17:57:46.867Z",
+  "updatedAt": "2026-11-04T16:23:11.185Z",
   "problems": [
     {
       "frontendId": "643",
@@ -84,6 +84,26 @@
           "path": "1493-longest-subarray-of-1s-after-deleting-one-element/1493-longest-subarray-of-1s-after-deleting-one-element.c",
           "sha": "93a1189d2ab5ac4ad4307e76feefbfb49e980a90",
           "lastSyncedAt": "2026-10-18T17:57:28.516Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3505",
+      "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+      "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "problemName": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "folderPath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "readmePath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal.c",
+          "path": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.c",
+          "sha": "74e8105433a7bad8f6860d0333fb6f17f0ffeaca",
+          "lastSyncedAt": "2026-11-04T16:23:11.185Z"
         }
       ]
     }
