@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-04T16:23:11.185Z",
+  "updatedAt": "2026-11-04T16:23:39.804Z",
   "problems": [
     {
       "frontendId": "22",
@@ -363,7 +363,7 @@
           "filename": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal.c",
           "path": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.c",
           "sha": "74e8105433a7bad8f6860d0333fb6f17f0ffeaca",
-          "lastSyncedAt": "2026-11-04T16:23:11.185Z"
+          "lastSyncedAt": "2026-11-04T16:23:39.804Z"
         }
       ]
     },
