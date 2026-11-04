@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-03T13:46:02.883Z",
+  "updatedAt": "2026-11-04T16:23:11.185Z",
   "problems": [
     {
       "frontendId": "22",
@@ -344,6 +344,26 @@
           "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.c",
           "sha": "f8b7507163505be080a003c94af7636401818f30",
           "lastSyncedAt": "2026-11-02T16:14:19.791Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3505",
+      "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+      "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "problemName": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "folderPath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "readmePath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal.c",
+          "path": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.c",
+          "sha": "74e8105433a7bad8f6860d0333fb6f17f0ffeaca",
+          "lastSyncedAt": "2026-11-04T16:23:11.185Z"
         }
       ]
     },
