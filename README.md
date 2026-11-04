@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 130 | 49 | 74 | 7 |
+| 131 | 49 | 74 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 10 days | 13 days | 43 |
+| 11 days | 13 days | 44 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-20 | 1 |
 | 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-11-01 | 1 |
 | 2026-11-02 | 1 |
 | 2026-11-03 | 1 |
+| 2026-11-04 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 65 | 50% |
+| Array | 66 | 50% |
 | String | 40 | 31% |
-| Dynamic Programming | 19 | 15% |
-| Hash Table | 17 | 13% |
+| Dynamic Programming | 20 | 15% |
+| Hash Table | 18 | 14% |
 | Sorting | 17 | 13% |
-| Depth-First Search | 15 | 12% |
-| Greedy | 15 | 12% |
-| Stack | 15 | 12% |
-| Math | 14 | 11% |
+| Depth-First Search | 15 | 11% |
+| Greedy | 15 | 11% |
+| Math | 15 | 11% |
+| Stack | 15 | 11% |
 | Breadth-First Search | 13 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 65 |
+| [Array](Topics/array/) | 66 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 3 |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [DP on Trees](Topics/dp-on-trees/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 19 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 20 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
@@ -76,15 +76,15 @@ Contains topicwise list of solved problems.
 | [Graph Theory](Topics/graph/) | 5 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 15 |
-| [Hash Table](Topics/hash-table/) | 17 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 7 |
+| [Hash Table](Topics/hash-table/) | 18 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 2 |
 | [Linked List](Topics/linked-list/) | 4 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
-| [Math](Topics/math/) | 14 |
+| [Math](Topics/math/) | 15 |
 | [Matrix](Topics/matrix/) | 10 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
@@ -96,7 +96,7 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 3 |
 | [Shortest Path](Topics/shortest-path/) | 2 |
 | [Simulation](Topics/simulation/) | 9 |
-| [Sliding Window](Topics/sliding-window/) | 4 |
+| [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 15 |
 | [String](Topics/string/) | 40 |
