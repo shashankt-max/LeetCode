@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-04T16:24:11.335Z",
+  "updatedAt": "2026-11-04T16:24:57.254Z",
   "problems": [
     {
       "frontendId": "22",
@@ -403,7 +403,7 @@
           "filename": "3882-minimum-xor-path-in-a-grid.c",
           "path": "3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.c",
           "sha": "47febf7fd962cb6e8e30eb4b5f20ee8e7d60a6c2",
-          "lastSyncedAt": "2026-11-03T13:46:02.883Z"
+          "lastSyncedAt": "2026-11-04T16:24:57.254Z"
         }
       ]
     }
