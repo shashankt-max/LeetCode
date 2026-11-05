@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-05T17:20:59.756Z",
+  "updatedAt": "2026-11-05T17:21:55.257Z",
   "problems": [
     {
       "frontendId": "206",
@@ -43,7 +43,7 @@
           "filename": "0394-decode-string.c",
           "path": "0394-decode-string/0394-decode-string.c",
           "sha": "195f53e1be8ba14348b8c6cf6ad0fdca8d7802d2",
-          "lastSyncedAt": "2026-10-26T17:55:43.473Z"
+          "lastSyncedAt": "2026-11-05T17:21:55.257Z"
         }
       ]
     }
