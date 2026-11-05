@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-05T17:18:39.257Z",
+  "updatedAt": "2026-11-05T17:19:07.524Z",
   "problems": [
     {
       "frontendId": "13",
@@ -63,7 +63,7 @@
           "filename": "0020-valid-parentheses.c",
           "path": "0020-valid-parentheses/0020-valid-parentheses.c",
           "sha": "6d14c3c5b3064a8011b1289dd83f14ae5475b173",
-          "lastSyncedAt": "2026-10-26T17:52:10.457Z"
+          "lastSyncedAt": "2026-11-05T17:19:07.524Z"
         }
       ]
     },
