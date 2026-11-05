@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T17:25:00.059Z",
+  "updatedAt": "2026-11-05T17:25:42.748Z",
   "problems": [
     {
       "frontendId": "1",
@@ -363,7 +363,7 @@
           "filename": "0643-maximum-average-subarray-i.c",
           "path": "0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.c",
           "sha": "c326e22dd570cb02298a19da87c107bbfe0563d9",
-          "lastSyncedAt": "2026-10-18T17:57:46.867Z"
+          "lastSyncedAt": "2026-11-05T17:25:42.748Z"
         }
       ]
     },
