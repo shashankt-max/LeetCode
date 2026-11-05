@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-02T16:18:02.716Z",
+  "updatedAt": "2026-11-05T16:42:43.111Z",
   "problems": [
     {
       "frontendId": "11",
@@ -144,6 +144,26 @@
           "path": "0443-string-compression/0443-string-compression.c",
           "sha": "ddab886c56b6ae86766198ea46f0688c7d625c59",
           "lastSyncedAt": "2026-10-18T17:58:27.457Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1385",
+      "title": "Find the Distance Value Between Two Arrays",
+      "slug": "find-the-distance-value-between-two-arrays",
+      "problemName": "1385-find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+      "folderPath": "1385-find-the-distance-value-between-two-arrays/",
+      "readmePath": "1385-find-the-distance-value-between-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1385-find-the-distance-value-between-two-arrays.c",
+          "path": "1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.c",
+          "sha": "1c1acf20aa8b270f62b0e3862443f13331326fd9",
+          "lastSyncedAt": "2026-11-05T16:42:43.111Z"
         }
       ]
     },
