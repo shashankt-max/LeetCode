@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-05T16:42:43.111Z",
+  "updatedAt": "2026-11-05T16:54:49.528Z",
   "problems": [
     {
       "frontendId": "11",
@@ -163,7 +163,7 @@
           "filename": "1385-find-the-distance-value-between-two-arrays.c",
           "path": "1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.c",
           "sha": "1c1acf20aa8b270f62b0e3862443f13331326fd9",
-          "lastSyncedAt": "2026-11-05T16:42:43.111Z"
+          "lastSyncedAt": "2026-11-05T16:54:49.528Z"
         }
       ]
     },
