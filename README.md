@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 131 | 49 | 74 | 8 |
+| 132 | 50 | 74 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 11 days | 13 days | 44 |
+| 12 days | 13 days | 45 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
 | 2026-10-25 | 2 |
@@ -29,32 +28,33 @@ Contains topicwise list of solved problems.
 | 2026-11-02 | 1 |
 | 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
+| 2026-11-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 66 | 50% |
-| String | 40 | 31% |
+| Array | 67 | 51% |
+| String | 40 | 30% |
 | Dynamic Programming | 20 | 15% |
 | Hash Table | 18 | 14% |
-| Sorting | 17 | 13% |
+| Sorting | 18 | 14% |
 | Depth-First Search | 15 | 11% |
 | Greedy | 15 | 11% |
 | Math | 15 | 11% |
 | Stack | 15 | 11% |
-| Breadth-First Search | 13 | 10% |
+| Two Pointers | 14 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 66 |
+| [Array](Topics/array/) | 67 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 3 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
-| [Binary Search](Topics/binary-search/) | 8 |
+| [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 11 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 8 |
@@ -97,13 +97,13 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 2 |
 | [Simulation](Topics/simulation/) | 9 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
-| [Sorting](Topics/sorting/) | 17 |
+| [Sorting](Topics/sorting/) | 18 |
 | [Stack](Topics/stack/) | 15 |
 | [String](Topics/string/) | 40 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Tree](Topics/tree/) | 12 |
 | [Trie](Topics/trie/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 13 |
+| [Two Pointers](Topics/two-pointers/) | 14 |
 | [Union-Find](Topics/union-find/) | 5 |
 | [Z Algorithm](Topics/z-algorithm/) | 2 |
 <!---LeetHub Summary End-->
