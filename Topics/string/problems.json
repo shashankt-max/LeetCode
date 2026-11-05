@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-05T16:57:08.922Z",
+  "updatedAt": "2026-11-05T16:57:23.509Z",
   "problems": [
     {
       "frontendId": "13",
@@ -763,7 +763,7 @@
           "filename": "3841-palindromic-path-queries-in-a-tree.c",
           "path": "3841-palindromic-path-queries-in-a-tree/3841-palindromic-path-queries-in-a-tree.c",
           "sha": "a46e54a54f958a6d3e19e7c562b949fb83647dad",
-          "lastSyncedAt": "2026-11-04T16:24:31.473Z"
+          "lastSyncedAt": "2026-11-05T16:57:23.509Z"
         }
       ]
     },
