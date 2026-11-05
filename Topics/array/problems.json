@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T17:00:49.556Z",
+  "updatedAt": "2026-11-05T17:01:00.806Z",
   "problems": [
     {
       "frontendId": "1",
@@ -303,7 +303,7 @@
           "filename": "0453-minimum-moves-to-equal-array-elements.c",
           "path": "0453-minimum-moves-to-equal-array-elements/0453-minimum-moves-to-equal-array-elements.c",
           "sha": "1f2d7cba1bfe5461bd16cd51bdaa6bf50171d60c",
-          "lastSyncedAt": "2026-11-05T16:56:43.750Z"
+          "lastSyncedAt": "2026-11-05T17:01:00.806Z"
         }
       ]
     },
