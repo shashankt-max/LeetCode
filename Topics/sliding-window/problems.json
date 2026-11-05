@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-05T17:25:00.059Z",
+  "updatedAt": "2026-11-05T17:25:14.996Z",
   "problems": [
     {
       "frontendId": "643",
@@ -63,7 +63,7 @@
           "filename": "1456-maximum-number-of-vowels-in-a-substring-of-given-length.c",
           "path": "1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.c",
           "sha": "8983fcb3a76048abe230fcbd10182981ad81758f",
-          "lastSyncedAt": "2026-10-18T17:57:43.020Z"
+          "lastSyncedAt": "2026-11-05T17:25:14.996Z"
         }
       ]
     },
