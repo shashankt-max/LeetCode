@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T17:00:04.086Z",
+  "updatedAt": "2026-11-05T17:00:18.792Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1143,7 +1143,7 @@
           "filename": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal.c",
           "path": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.c",
           "sha": "74e8105433a7bad8f6860d0333fb6f17f0ffeaca",
-          "lastSyncedAt": "2026-11-05T16:55:46.021Z"
+          "lastSyncedAt": "2026-11-05T17:00:18.792Z"
         }
       ]
     },
