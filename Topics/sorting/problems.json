@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-05T17:20:17.609Z",
+  "updatedAt": "2026-11-05T17:22:53.951Z",
   "problems": [
     {
       "frontendId": "215",
@@ -203,7 +203,7 @@
           "filename": "1657-determine-if-two-strings-are-close.c",
           "path": "1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.c",
           "sha": "bda06b5bc1166d8fbdf7952009730df002376874",
-          "lastSyncedAt": "2026-10-26T17:57:47.183Z"
+          "lastSyncedAt": "2026-11-05T17:22:53.951Z"
         }
       ]
     },
