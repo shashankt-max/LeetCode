@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-04T16:23:39.804Z",
+  "updatedAt": "2026-11-05T16:55:46.021Z",
   "problems": [
     {
       "frontendId": "643",
@@ -103,7 +103,7 @@
           "filename": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal.c",
           "path": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.c",
           "sha": "74e8105433a7bad8f6860d0333fb6f17f0ffeaca",
-          "lastSyncedAt": "2026-11-04T16:23:39.804Z"
+          "lastSyncedAt": "2026-11-05T16:55:46.021Z"
         }
       ]
     }
