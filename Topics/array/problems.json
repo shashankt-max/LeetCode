@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-05T17:28:13.677Z",
+  "updatedAt": "2026-11-06T17:10:52.176Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1044,6 +1044,26 @@
           "path": "2542-maximum-subsequence-score/2542-maximum-subsequence-score.c",
           "sha": "119f71284a05a43f7df40e27ad87d5db9e9727fb",
           "lastSyncedAt": "2026-11-05T17:13:14.554Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2747",
+      "title": "Count Zero Request Servers",
+      "slug": "count-zero-request-servers",
+      "problemName": "2747-count-zero-request-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-zero-request-servers/",
+      "folderPath": "2747-count-zero-request-servers/",
+      "readmePath": "2747-count-zero-request-servers/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2747-count-zero-request-servers.c",
+          "path": "2747-count-zero-request-servers/2747-count-zero-request-servers.c",
+          "sha": "69a88c018ea2ec6353c34c80157814cac570a2be",
+          "lastSyncedAt": "2026-11-06T17:10:52.176Z"
         }
       ]
     },
