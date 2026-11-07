@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 132 | 50 | 74 | 8 |
+| 134 | 50 | 76 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 12 days | 13 days | 45 |
+| 14 days | 14 days | 47 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-22 | 1 |
-| 2026-10-23 | 1 |
 | 2026-10-25 | 2 |
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
@@ -29,27 +27,29 @@ Contains topicwise list of solved problems.
 | 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-05 | 1 |
+| 2026-11-06 | 1 |
+| 2026-11-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 67 | 51% |
+| Array | 69 | 51% |
 | String | 40 | 30% |
 | Dynamic Programming | 20 | 15% |
-| Hash Table | 18 | 14% |
-| Sorting | 18 | 14% |
+| Hash Table | 19 | 14% |
+| Sorting | 19 | 14% |
 | Depth-First Search | 15 | 11% |
 | Greedy | 15 | 11% |
 | Math | 15 | 11% |
 | Stack | 15 | 11% |
-| Two Pointers | 14 | 11% |
+| Two Pointers | 14 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 67 |
+| [Array](Topics/array/) | 69 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 3 |
@@ -76,8 +76,8 @@ Contains topicwise list of solved problems.
 | [Graph Theory](Topics/graph/) | 5 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 15 |
-| [Hash Table](Topics/hash-table/) | 18 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
+| [Hash Table](Topics/hash-table/) | 19 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 9 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 2 |
 | [Linked List](Topics/linked-list/) | 4 |
@@ -96,8 +96,8 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 3 |
 | [Shortest Path](Topics/shortest-path/) | 2 |
 | [Simulation](Topics/simulation/) | 9 |
-| [Sliding Window](Topics/sliding-window/) | 5 |
-| [Sorting](Topics/sorting/) | 18 |
+| [Sliding Window](Topics/sliding-window/) | 6 |
+| [Sorting](Topics/sorting/) | 19 |
 | [Stack](Topics/stack/) | 15 |
 | [String](Topics/string/) | 40 |
 | [String Matching](Topics/string-matching/) | 2 |
