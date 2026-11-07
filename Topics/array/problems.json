@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T17:10:52.176Z",
+  "updatedAt": "2026-11-07T18:12:22.681Z",
   "problems": [
     {
       "frontendId": "1",
@@ -864,6 +864,26 @@
           "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.c",
           "sha": "bc02cc36d4c96ae4983d2dbba5a8438b5aa53b0a",
           "lastSyncedAt": "2026-11-05T17:21:19.528Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1882",
+      "title": "Process Tasks Using Servers",
+      "slug": "process-tasks-using-servers",
+      "problemName": "1882-process-tasks-using-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/process-tasks-using-servers/",
+      "folderPath": "1882-process-tasks-using-servers/",
+      "readmePath": "1882-process-tasks-using-servers/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1882-process-tasks-using-servers.c",
+          "path": "1882-process-tasks-using-servers/1882-process-tasks-using-servers.c",
+          "sha": "4e2c79c66c1b17847cc72173d476ef93ba708e97",
+          "lastSyncedAt": "2026-11-07T18:12:22.681Z"
         }
       ]
     },
