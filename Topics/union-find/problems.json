@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-05T17:16:37.598Z",
+  "updatedAt": "2026-11-08T19:20:20.297Z",
   "problems": [
     {
       "frontendId": "399",
@@ -64,6 +64,26 @@
           "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.c",
           "sha": "6c5efe1980dc6ef8a8a2bed460bf77146c8af9de",
           "lastSyncedAt": "2026-11-05T17:03:13.738Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "1267-count-servers-that-communicate/",
+      "readmePath": "1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1267-count-servers-that-communicate.c",
+          "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.c",
+          "sha": "5291409e777cd3b58055d24b15c4b7795ecda13d",
+          "lastSyncedAt": "2026-11-08T19:20:20.297Z"
         }
       ]
     },
